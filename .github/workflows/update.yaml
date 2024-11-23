@@ -20,12 +20,14 @@ jobs:
         shell: bash            
         run: |
             git clone --filter=blob:none --no-checkout https://github.com/heyjeffrey/hello-world.git go        
-            cd go
+            #cd go
+            working-directory: go
             git sparse-checkout set --cone out/
             git checkout
 
             mv out/* ../res
-            cd..
+            # cd..
+            working-directory: ./
             rm -rf go
             git add .
             git commit -m "updated "
