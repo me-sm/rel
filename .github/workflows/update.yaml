@@ -23,7 +23,7 @@ jobs:
             git sparse-checkout set --cone out/
             git checkout
 
-            mv out/* ../rel
+            mv out/* ../res
             cd..
             rm -rf go
             git add .
