@@ -29,6 +29,12 @@ jobs:
             cd ..
             # working-directory: ./
             rm -rf go
+            # git config user.email "you@example.com"
+            # git config user.name "Your Name"
+
+            git config user.name "${GITHUB_ACTOR}"
+            git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+
             git add .
             git commit -m "updated "
             git push -u
