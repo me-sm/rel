@@ -2,7 +2,8 @@ name: Build
 
 on:
     workflow_dispatch:  # Manually trigger the workflow
-    push:
+    schedule:
+      - cron: '40 18 * * *'
 
 defaults:
   run:
