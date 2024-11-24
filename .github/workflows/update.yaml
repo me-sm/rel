@@ -13,28 +13,28 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: checkout
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: process
-        shell: bash            
+      - name: Clone
+        env: 
+            PAT: ${{ secrets.PAT }}
         run: |
-            git clone --filter=blob:none --no-checkout https://github.com/heyjeffrey/hello-world.git go        
+            git clone --filter=blob:none --no-checkout https://"$PAT"@github.com/me-sm/stark.git go        
             cd go
-            # working-directory: go
             git sparse-checkout set --cone out/
             git checkout
-
+            
             mv out/* ../res
             cd ..
-            # working-directory: ./
             rm -rf go
-            # git config user.email "you@example.com"
-            # git config user.name "Your Name"
 
+      - name: Commit and Push
+        run: |
             git config user.name "${GITHUB_ACTOR}"
             git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
 
             git add .
-            git commit -m "updated "
-            git push -u
+            timestamp=$(date -u)
+            git commit -m "Update : ${timestamp}" || exit 0
+            git push
