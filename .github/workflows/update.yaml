@@ -4,7 +4,7 @@ on:
     workflow_dispatch:  # Manually trigger the workflow
     schedule:
       - cron: '40 17 * * *'
-      - cron: '40 10 7,8 * *'
+      - cron: '40 10 * * 6,0'
 
 defaults:
   run:
