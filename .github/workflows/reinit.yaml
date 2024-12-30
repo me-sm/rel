@@ -1,0 +1,36 @@
+name: Reinit
+
+on:
+    workflow_dispatch:  # Manually trigger the workflow
+
+defaults:
+  run:
+    working-directory: .
+
+jobs:
+  run-reinit:
+    if: ${{ github.run_number }} > 10
+    runs-on: ubuntu-latest
+    steps:
+       - uses: actions/checkout@v2
+
+       - name: config
+         run: |
+            git config user.name "${GITHUB_ACTOR}"
+            git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"     
+
+       - name: Restore state
+         run: |
+          echo ${{ github.run_number }}
+    
+          git checkout --orphan temp-branch
+          git add -A
+          git commit -m "Initial commit"
+          git branch -D main
+          git branch -m main
+          git push -f origin main
+
+       - name: Clean up
+         run: |
+          git fetch origin --prune
+      

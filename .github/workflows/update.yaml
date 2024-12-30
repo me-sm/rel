@@ -1,0 +1,44 @@
+name: Update
+
+on:
+    workflow_dispatch:  # Manually trigger the workflow
+    schedule:
+      - cron: '50 17 * * *'
+      - cron: '40 11 * * 6,0'
+
+defaults:
+  run:
+    shell: bash        
+    working-directory: ./
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Clone
+        env: 
+            PAT: ${{ secrets.PAT }}
+            REPO: ${{ secrets.REPO }}
+        run: |
+            git clone --filter=blob:none --no-checkout https://"$PAT"@github.com/"$REPO" go        
+            cd go
+            git sparse-checkout set --cone out/
+            git checkout
+            
+            rm -f out/.gitkeep
+            mv out/* ../res
+            cd ..
+            rm -rf go
+
+      - name: Commit and Push
+        run: |
+            git config user.name "${GITHUB_ACTOR}"
+            git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+            git add .
+            timestamp=$(date -u)
+            git commit -m "Update : ${timestamp}" || exit 0
+            git pull --rebase
+            git push -f
