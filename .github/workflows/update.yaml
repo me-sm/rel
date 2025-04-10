@@ -3,7 +3,7 @@ name: Update
 on:
     workflow_dispatch:  # Manually trigger the workflow
     schedule:
-      - cron: '50 17 * * *'
+      - cron: '00 17 * * 1-5'
       - cron: '40 11 * * 6,0'
 
 defaults:
