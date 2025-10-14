@@ -20,9 +20,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: dumy
-        run: echo "My secret is ${{ secrets.REPO }}"
-
       - name: Clone
         env: 
             PAT: ${{ secrets.PAT }}
