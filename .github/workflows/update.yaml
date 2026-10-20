@@ -3,10 +3,11 @@ name: Update
 on:
     workflow_dispatch:  # Manually trigger the workflow
     repository_dispatch:
-        types: [dep_update]            
+        types: [update]            
     schedule:
-      - cron: '00 17 * * 1-5'
+      - cron: '20 17 * * 1-5'
       - cron: '40 11 * * 6,0'
+        timezone: 'Europe/Stockholm'
 
 defaults:
   run:
