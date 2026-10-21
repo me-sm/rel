@@ -1,0 +1,3228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv date="20261021">
+<channel id="18">
+<display-name>FloRacing PPV</display-name>
+</channel>
+<channel id="5037">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="00">
+<display-name>Channel Not Listed #JustAsk</display-name>
+</channel>
+<channel id="5000">
+<display-name>Netflix</display-name>
+</channel>
+<channel id="1218">
+<display-name>Event SD Stream</display-name>
+</channel>
+<channel id="5">
+<display-name>Indosiar</display-name>
+</channel>
+<channel id="8">
+<display-name>ON Sport Plus Egypt</display-name>
+</channel>
+<channel id="9">
+<display-name>Thmanyah 2</display-name>
+</channel>
+<channel id="10">
+<display-name>Thmanyah 3</display-name>
+</channel>
+<channel id="1">
+<display-name>RTVS Sport Slovakia</display-name>
+</channel>
+<channel id="5003">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="107">
+<display-name>Paramount+</display-name>
+</channel>
+<channel id="161">
+<display-name>Movistar Liga de Campeones 4</display-name>
+</channel>
+<channel id="160">
+<display-name>Sky Sport 251 IT</display-name>
+</channel>
+<channel id="108">
+<display-name>Paramount+</display-name>
+</channel>
+<channel id="1201">
+<display-name>Event SD Stream</display-name>
+</channel>
+<channel id="1012">
+<display-name>TRT 1 Turkey</display-name>
+</channel>
+<channel id="2">
+<display-name>Sky Sport 254 IT</display-name>
+</channel>
+<channel id="23">
+<display-name>CBC Sport Azerbaijan</display-name>
+</channel>
+<channel id="985">
+<display-name>Canal+ Extra 3 Poland</display-name>
+</channel>
+<channel id="159">
+<display-name>Sky Sport Austria 4</display-name>
+</channel>
+<channel id="6">
+<display-name>M+ Liga de Campeones 3</display-name>
+</channel>
+<channel id="76">
+<display-name>Canal+ Live 2 France</display-name>
+</channel>
+<channel id="24">
+<display-name>Space Brazil</display-name>
+</channel>
+<channel id="919">
+<display-name>Ziggo Sport 3 NL</display-name>
+</channel>
+<channel id="1026">
+<display-name>Nova Sport 6 CZ</display-name>
+</channel>
+<channel id="787">
+<display-name>Fox Sports Argentina</display-name>
+</channel>
+<channel id="3004">
+<display-name>TNT Sports 4 UK</display-name>
+</channel>
+<channel id="3050">
+<display-name>Canal+ Foot France</display-name>
+</channel>
+<channel id="4105">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="4104">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="5002">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="5030">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="5040">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="4003">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="109">
+<display-name>Paramount+</display-name>
+</channel>
+<channel id="1202">
+<display-name>Event SD Stream</display-name>
+</channel>
+<channel id="3">
+<display-name>Sky Sport 253 IT</display-name>
+</channel>
+<channel id="4">
+<display-name>Movistar Liga de Campeones 2</display-name>
+</channel>
+<channel id="162">
+<display-name>Sky Sport Austria 3</display-name>
+</channel>
+<channel id="55">
+<display-name>Canal+ Live 3 France</display-name>
+</channel>
+<channel id="163">
+<display-name>Sport 2 Hungary</display-name>
+</channel>
+<channel id="1061">
+<display-name>Nova Sport 4 SK</display-name>
+</channel>
+<channel id="1024">
+<display-name>Nova Sport 4 CZ</display-name>
+</channel>
+<channel id="984">
+<display-name>Canal+ Extra 2 Poland</display-name>
+</channel>
+<channel id="886">
+<display-name>Sony Sports TEN 2</display-name>
+</channel>
+<channel id="3002">
+<display-name>TNT Sports 2 UK</display-name>
+</channel>
+<channel id="3029">
+<display-name>M+ Liga de Campeones 2</display-name>
+</channel>
+<channel id="3047">
+<display-name>Sky Sport Uno IT</display-name>
+</channel>
+<channel id="4102">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="4108">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="4103">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="5001">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="5031">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="5041">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="4002">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="4010">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="164">
+<display-name>Thmanyah 1</display-name>
+</channel>
+<channel id="1205">
+<display-name>Event SD Stream</display-name>
+</channel>
+<channel id="1207">
+<display-name>Event SD Stream</display-name>
+</channel>
+<channel id="165">
+<display-name>ON Sport Max Egypt</display-name>
+</channel>
+<channel id="1204">
+<display-name>Event SD Stream</display-name>
+</channel>
+<channel id="1216">
+<display-name>Event SD Stream</display-name>
+</channel>
+<channel id="1217">
+<display-name>Event SD Stream</display-name>
+</channel>
+<channel id="1215">
+<display-name>Event SD Stream</display-name>
+</channel>
+<channel id="59">
+<display-name>ESPN+ USA</display-name>
+</channel>
+<channel id="25">
+<display-name>MagentaSport 3 League Greece</display-name>
+</channel>
+<channel id="27">
+<display-name>Sportklub 6 Croatia</display-name>
+</channel>
+<channel id="3010">
+<display-name>Viaplay Sports 1 UK</display-name>
+</channel>
+<channel id="3086">
+<display-name>ESPN Deportes</display-name>
+</channel>
+<channel id="1219">
+<display-name>Event SD Stream</display-name>
+</channel>
+<channel id="166">
+<display-name>BBC Alba</display-name>
+</channel>
+<channel id="110">
+<display-name>Paramount+</display-name>
+</channel>
+<channel id="1220">
+<display-name>Event SD Stream</display-name>
+</channel>
+<channel id="986">
+<display-name>Canal+ Extra 4 Poland</display-name>
+</channel>
+<channel id="151">
+<display-name>Paramount+</display-name>
+</channel>
+<channel id="1223">
+<display-name>Event SD Stream</display-name>
+</channel>
+<channel id="167">
+<display-name>M+ Liga de Campeones 5</display-name>
+</channel>
+<channel id="168">
+<display-name>Sky Sport Austria 7</display-name>
+</channel>
+<channel id="181">
+<display-name>V Sport 1 Sweden</display-name>
+</channel>
+<channel id="19">
+<display-name>Arena 5 Premium Serbia</display-name>
+</channel>
+<channel id="68">
+<display-name>Canal+ Live 5 France</display-name>
+</channel>
+<channel id="69">
+<display-name>Blue Sport 1 Live</display-name>
+</channel>
+<channel id="5004">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="152">
+<display-name>Paramount+</display-name>
+</channel>
+<channel id="1222">
+<display-name>Event SD Stream</display-name>
+</channel>
+<channel id="7">
+<display-name>Sky Sport 252 IT</display-name>
+</channel>
+<channel id="1060">
+<display-name>Nova Sport 3 SK</display-name>
+</channel>
+<channel id="169">
+<display-name>Sky Sport Austria 2</display-name>
+</channel>
+<channel id="1023">
+<display-name>Nova Sport 3 CZ</display-name>
+</channel>
+<channel id="983">
+<display-name>Canal+ Extra 1 Poland</display-name>
+</channel>
+<channel id="885">
+<display-name>Sony TEN 2</display-name>
+</channel>
+<channel id="5005">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="4001">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="153">
+<display-name>Paramount+</display-name>
+</channel>
+<channel id="1227">
+<display-name>Event SD Stream</display-name>
+</channel>
+<channel id="11">
+<display-name>Sky Sport 256 IT</display-name>
+</channel>
+<channel id="77">
+<display-name>Canal+ Live 6 France</display-name>
+</channel>
+<channel id="170">
+<display-name>Sky Sport Austria 5</display-name>
+</channel>
+<channel id="171">
+<display-name>Arena 4 Premium Serbia</display-name>
+</channel>
+<channel id="988">
+<display-name>Canal+ Extra 6 Poland</display-name>
+</channel>
+<channel id="86">
+<display-name>Blue Sport 4 Live</display-name>
+</channel>
+<channel id="172">
+<display-name>ESPN4 Argentina</display-name>
+</channel>
+<channel id="5006">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="5032">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="5042">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="154">
+<display-name>Paramount+</display-name>
+</channel>
+<channel id="1226">
+<display-name>Event SD Stream</display-name>
+</channel>
+<channel id="173">
+<display-name>Club RTL Belgium</display-name>
+</channel>
+<channel id="174">
+<display-name>Sky Sport Austria 6</display-name>
+</channel>
+<channel id="12">
+<display-name>Sky Sport 258 IT</display-name>
+</channel>
+<channel id="175">
+<display-name>M+ Liga de Campeones 6</display-name>
+</channel>
+<channel id="13">
+<display-name>Blue Sport 2 Live</display-name>
+</channel>
+<channel id="987">
+<display-name>Canal+ Extra 5 Poland</display-name>
+</channel>
+<channel id="5007">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="5033">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="5043">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="4006">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="155">
+<display-name>Paramount+</display-name>
+</channel>
+<channel id="1224">
+<display-name>Event SD Stream</display-name>
+</channel>
+<channel id="176">
+<display-name>Amazon Prime Video IT</display-name>
+</channel>
+<channel id="177">
+<display-name>Canal+ Sport 6 Poland</display-name>
+</channel>
+<channel id="178">
+<display-name>M+ Liga de Campeones 7</display-name>
+</channel>
+<channel id="105">
+<display-name>Canal+ Live 4 France</display-name>
+</channel>
+<channel id="14">
+<display-name>Blue Sport 3 Live</display-name>
+</channel>
+<channel id="1062">
+<display-name>Nova Sport 5 SK</display-name>
+</channel>
+<channel id="179">
+<display-name>V Sport Extra</display-name>
+</channel>
+<channel id="1025">
+<display-name>Nova Sport 5 CZ</display-name>
+</channel>
+<channel id="5008">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="5034">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="5044">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="4005">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="156">
+<display-name>Paramount+</display-name>
+</channel>
+<channel id="1221">
+<display-name>Event SD Stream</display-name>
+</channel>
+<channel id="5009">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="5035">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="5045">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="4004">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="157">
+<display-name>Paramount+</display-name>
+</channel>
+<channel id="1225">
+<display-name>Event SD Stream</display-name>
+</channel>
+<channel id="15">
+<display-name>Sky Sport 257 IT</display-name>
+</channel>
+<channel id="106">
+<display-name>Canal+ Live 7 France</display-name>
+</channel>
+<channel id="180">
+<display-name>M+ Liga de Campeones 8</display-name>
+</channel>
+<channel id="16">
+<display-name>Blue Sport 5 Live</display-name>
+</channel>
+<channel id="989">
+<display-name>Canal+ Extra 7 Poland</display-name>
+</channel>
+<channel id="5010">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="5036">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="5046">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="4007">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="925">
+<display-name>ESPN Mexico</display-name>
+</channel>
+<channel id="935">
+<display-name>TUDN MX</display-name>
+</channel>
+<channel id="963">
+<display-name>Canal+ Extra 1 Poland</display-name>
+</channel>
+<channel id="4106">
+<display-name>Event Stream</display-name>
+</channel>
+<channel id="284">
+<display-name>StarzPlay CricLife 1 HD</display-name>
+</channel>
+<channel id="1300">
+<display-name>Event SD Stream</display-name>
+</channel>
+<channel id="576">
+<display-name>Sky Sport Tennis Italy</display-name>
+</channel>
+<channel id="1043">
+<display-name>Canal+ Sport 2 Czechia</display-name>
+</channel>
+<channel id="992">
+<display-name>Polsat Sport Premium 2 Poland</display-name>
+</channel>
+<channel id="26">
+<display-name>Sportklub 5 Croatia</display-name>
+</channel>
+<channel id="1521">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1660">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1071">
+<display-name>Tennis HD Stream</display-name>
+</channel>
+<channel id="1507">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1661">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1522">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1666">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1072">
+<display-name>Tennis HD Stream</display-name>
+</channel>
+<channel id="1665">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1073">
+<display-name>Tennis HD Stream</display-name>
+</channel>
+<channel id="1668">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1079">
+<display-name>Tennis HD Stream</display-name>
+</channel>
+<channel id="1683">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1074">
+<display-name>Tennis HD Stream</display-name>
+</channel>
+<channel id="1508">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1670">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1523">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1671">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1075">
+<display-name>Tennis HD Stream</display-name>
+</channel>
+<channel id="1674">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1076">
+<display-name>Tennis HD Stream</display-name>
+</channel>
+<channel id="1678">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1080">
+<display-name>Tennis HD Stream</display-name>
+</channel>
+<channel id="1685">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1082">
+<display-name>Tennis HD Stream</display-name>
+</channel>
+<channel id="1687">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1077">
+<display-name>Tennis HD Stream</display-name>
+</channel>
+<channel id="1509">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1677">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1078">
+<display-name>Tennis HD Stream</display-name>
+</channel>
+<channel id="1682">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1081">
+<display-name>Tennis HD Stream</display-name>
+</channel>
+<channel id="1686">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1083">
+<display-name>Tennis HD Stream</display-name>
+</channel>
+<channel id="1688">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1088">
+<display-name>Tennis HD Stream</display-name>
+</channel>
+<channel id="1524">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1501">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1656">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1092">
+<display-name>Tennis HD Stream</display-name>
+</channel>
+<channel id="1659">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1094">
+<display-name>Tennis HD Stream</display-name>
+</channel>
+<channel id="1664">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1097">
+<display-name>Tennis HD Stream</display-name>
+</channel>
+<channel id="1690">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1084">
+<display-name>Tennis HD Stream</display-name>
+</channel>
+<channel id="1504">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1651">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1085">
+<display-name>Tennis HD Stream</display-name>
+</channel>
+<channel id="1505">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1652">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1086">
+<display-name>Tennis HD Stream</display-name>
+</channel>
+<channel id="1653">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1090">
+<display-name>Tennis HD Stream</display-name>
+</channel>
+<channel id="1657">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1669">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1691">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1680">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1675">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1679">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1672">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1673">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1676">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1681">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1684">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1087">
+<display-name>Tennis HD Stream</display-name>
+</channel>
+<channel id="1654">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1091">
+<display-name>Tennis HD Stream</display-name>
+</channel>
+<channel id="1658">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1093">
+<display-name>Tennis HD Stream</display-name>
+</channel>
+<channel id="1662">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1089">
+<display-name>Tennis HD Stream</display-name>
+</channel>
+<channel id="1502">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1655">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1095">
+<display-name>Tennis HD Stream</display-name>
+</channel>
+<channel id="1663">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="1096">
+<display-name>Tennis HD Stream</display-name>
+</channel>
+<channel id="1667">
+<display-name>Tennis Stream</display-name>
+</channel>
+<channel id="995">
+<display-name>Polsat Sport Extra 3 Poland</display-name>
+</channel>
+<channel id="937">
+<display-name>V Sport Golf</display-name>
+</channel>
+<channel id="1298">
+<display-name>Event SD Stream</display-name>
+</channel>
+<channel id="1299">
+<display-name>Event SD Stream</display-name>
+</channel>
+<channel id="231">
+<display-name>Eurosport 1 SE</display-name>
+</channel>
+<channel id="201">
+<display-name>TNT Sports UK</display-name>
+</channel>
+<channel id="202">
+<display-name>TNT Sports UK</display-name>
+</channel>
+<channel id="203">
+<display-name>TNT Sports UK</display-name>
+</channel>
+<channel id="204">
+<display-name>TNT Sports UK</display-name>
+</channel>
+<channel id="205">
+<display-name>TNT Sports UK</display-name>
+</channel>
+<channel id="206">
+<display-name>TNT Sports UK</display-name>
+</channel>
+<channel id="944">
+<display-name>Arena Sport 9 Serbia</display-name>
+</channel>
+<channel id="945">
+<display-name>Arena Sport 10 Serbia</display-name>
+</channel>
+<channel id="158">
+<display-name>Sportklub 10 Croatia</display-name>
+</channel>
+<channel id="182">
+<display-name>Match Igra Russia</display-name>
+</channel>
+<channel id="183">
+<display-name>M+ Baloncesto 2 Spain</display-name>
+</channel>
+<channel id="184">
+<display-name>M+ Vamos 2 Spain</display-name>
+</channel>
+<channel id="29">
+<display-name>Sportklub 8 Croatia</display-name>
+</channel>
+<channel id="17">
+<display-name>Magenta Sport 305</display-name>
+</channel>
+<channel id="185">
+<display-name>STV 1 Slovenia</display-name>
+</channel>
+<channel id="1206">
+<display-name>Event SD Stream</display-name>
+</channel>
+<channel id="30">
+<display-name>Sportklub 9 Croatia</display-name>
+</channel>
+<channel id="20">
+<display-name>Magenta Sport 302</display-name>
+</channel>
+<channel id="996">
+<display-name>Polsat Sport Extra 4 Poland</display-name>
+</channel>
+<channel id="21">
+<display-name>Magenta Sport 304</display-name>
+</channel>
+<channel id="186">
+<display-name>M+ Baloncesto Spain</display-name>
+</channel>
+<channel id="941">
+<display-name>Arena Sport 6 Serbia</display-name>
+</channel>
+<channel id="28">
+<display-name>Sportklub 7 Croatia</display-name>
+</channel>
+<channel id="942">
+<display-name>Arena Sport 7 Serbia</display-name>
+</channel>
+<channel id="940">
+<display-name>Arena Sport 5 Serbia</display-name>
+</channel>
+<channel id="187">
+<display-name>STV 3 Slovenia</display-name>
+</channel>
+<channel id="22">
+<display-name>Magenta Sport 301</display-name>
+</channel>
+<channel id="188">
+<display-name>M+ Baloncesto 3 Spain</display-name>
+</channel>
+<channel id="1027">
+<display-name>Oneplay Sport 1 CZ</display-name>
+</channel>
+<channel id="3012">
+<display-name>Magenta Sport 301</display-name>
+</channel>
+<channel id="888">
+<display-name>ESPN3 NL</display-name>
+</channel>
+<channel id="921">
+<display-name>Space City Home Network</display-name>
+</channel>
+<channel id="189">
+<display-name>SRF Info</display-name>
+</channel>
+<channel id="1041">
+<display-name>Sport 1 CZ</display-name>
+</channel>
+<channel id="190">
+<display-name>Sport 1 Hungary</display-name>
+</channel>
+<channel id="1212">
+<display-name>Event SD Stream</display-name>
+</channel>
+<channel id="3062">
+<display-name>TV4 Sport Live 2</display-name>
+</channel>
+<channel id="1213">
+<display-name>Event SD Stream</display-name>
+</channel>
+<channel id="3061">
+<display-name>TV4 Sport Live 1</display-name>
+</channel>
+<channel id="1214">
+<display-name>Event SD Stream</display-name>
+</channel>
+<channel id="3065">
+<display-name>TV4 Sportkanalen</display-name>
+</channel>
+<channel id="1208">
+<display-name>Event SD Stream</display-name>
+</channel>
+<channel id="3064">
+<display-name>TV4 Sport Live 4</display-name>
+</channel>
+<channel id="1209">
+<display-name>Event SD Stream</display-name>
+</channel>
+<channel id="3066">
+<display-name>TV4 Hockey</display-name>
+</channel>
+<channel id="1210">
+<display-name>Event SD Stream</display-name>
+</channel>
+<channel id="3063">
+<display-name>TV4 Sport Live 3 Sweden</display-name>
+</channel>
+<channel id="3067">
+<display-name>TV4 Sport Live</display-name>
+</channel>
+<channel id="1211">
+<display-name>Event SD Stream</display-name>
+</channel>
+<channel id="192">
+<display-name>STV 2 Slovenia</display-name>
+</channel>
+<channel id="191">
+<display-name>KHL Prime</display-name>
+</channel>
+<channel id="994">
+<display-name>Polsat Sport Extra 2 Poland</display-name>
+</channel>
+<channel id="943">
+<display-name>Arena Sport 8 Serbia</display-name>
+</channel>
+<programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="18">
+<title lang="en">19:00 🏀 Eurocup : PAOK 🇬🇷 vs Ulm 🇩🇪</title>
+<desc lang="en">19:00</desc>
+<category lang="en">Eurocup Basketball 🏀</category>
+</programme>
+<programme start="20261021204500 +0000" stop="20261021224500 +0000" channel="18">
+<title lang="en">22:45 🏁 No Mercy 17 at South Georgia Motorsports Park (21–25)</title>
+<desc lang="en">22:45</desc>
+<category lang="en">PPV Events</category>
+</programme>
+<programme start="20261021204500 +0000" stop="20261021224500 +0000" channel="5037">
+<title lang="en">22:45 🏁 No Mercy 17 at South Georgia Motorsports Park (21–25)</title>
+<desc lang="en">22:45</desc>
+<category lang="en">PPV Events</category>
+</programme>
+<programme start="20261021110000 +0000" stop="20261021130000 +0000" channel="00">
+<title lang="en">13:00 🏅🇸🇳 Summer Youth Olympic Games | Dakar, Senegal | 31 October – 13 November 2026</title>
+<desc lang="en">13:00</desc>
+<category lang="en">Upcoming Events</category>
+</programme>
+<programme start="20261021130000 +0000" stop="20261021150000 +0000" channel="00">
+<title lang="en">15:00 ⚽🇲🇦 FIFA U-17 Women's World Cup | Morocco | 17 October – 7 November 2026</title>
+<desc lang="en">15:00</desc>
+<category lang="en">Upcoming Events</category>
+</programme>
+<programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="00">
+<title lang="en">19:00 ⚽ Women's College Soccer : Iona 🇺🇸 vs Marist 🇺🇸</title>
+<desc lang="en">19:00</desc>
+<category lang="en">Women's College Soccer ⚽</category>
+</programme>
+<programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="00">
+<title lang="en">19:00 ⚽ Men's College Soccer : Army 🇺🇸 vs American 🇺🇸</title>
+<desc lang="en">19:00</desc>
+<category lang="en">Men's College Soccer ⚽</category>
+</programme>
+<programme start="20261021173000 +0000" stop="20261021193000 +0000" channel="00">
+<title lang="en">19:30 ⚽ Men's College Soccer : CSU Bakersfield 🇺🇸 vs UC Riverside 🇺🇸</title>
+<desc lang="en">19:30</desc>
+<category lang="en">Men's College Soccer ⚽</category>
+</programme>
+<programme start="20261021200000 +0000" stop="20261021220000 +0000" channel="00">
+<title lang="en">22:00 ⚽ Women's College Soccer : DePaul 🇺🇸 vs Georgetown 🇺🇸</title>
+<desc lang="en">22:00</desc>
+<category lang="en">Women's College Soccer ⚽</category>
+</programme>
+<programme start="20261021220000 +0000" stop="20261022000000 +0000" channel="00">
+<title lang="en">00:00 🏐 Women's College Volleyball : Florida Atlantic 🇺🇸 vs South Florida 🇺🇸</title>
+<desc lang="en">00:00</desc>
+<category lang="en">Women's College Volleyball 🏐</category>
+</programme>
+<programme start="20261021220000 +0000" stop="20261022000000 +0000" channel="00">
+<title lang="en">00:00 ⚽ Women's College Soccer : Seton Hall 🇺🇸 vs Villanova 🇺🇸</title>
+<desc lang="en">00:00</desc>
+<category lang="en">Women's College Soccer ⚽</category>
+</programme>
+<programme start="20261021220000 +0000" stop="20261022000000 +0000" channel="00">
+<title lang="en">00:00 ⚽ Women's College Soccer : Providence 🇺🇸 vs St. John's (NY) 🇺🇸</title>
+<desc lang="en">00:00</desc>
+<category lang="en">Women's College Soccer ⚽</category>
+</programme>
+<programme start="20261021220000 +0000" stop="20261022000000 +0000" channel="00">
+<title lang="en">00:00 ⚽ Women's College Soccer : Canisius 🇺🇸 vs Niagara 🇺🇸</title>
+<desc lang="en">00:00</desc>
+<category lang="en">Women's College Soccer ⚽</category>
+</programme>
+<programme start="20261021220000 +0000" stop="20261022000000 +0000" channel="00">
+<title lang="en">00:00 ⚽ Women's College Soccer : Appalachian State 🇺🇸 vs Southern Mississippi 🇺🇸</title>
+<desc lang="en">00:00</desc>
+<category lang="en">Women's College Soccer ⚽</category>
+</programme>
+<programme start="20261021220000 +0000" stop="20261022000000 +0000" channel="00">
+<title lang="en">00:00 ⚽ Men's College Soccer : Virginia Tech 🇺🇸 vs Winthrop 🇺🇸</title>
+<desc lang="en">00:00</desc>
+<category lang="en">Men's College Soccer ⚽</category>
+</programme>
+<programme start="20261021220000 +0000" stop="20261022000000 +0000" channel="00">
+<title lang="en">00:00 ⚽ Men's College Soccer : St. Bonaventure 🇺🇸 vs Duquesne 🇺🇸</title>
+<desc lang="en">00:00</desc>
+<category lang="en">Men's College Soccer ⚽</category>
+</programme>
+<programme start="20261021220000 +0000" stop="20261022000000 +0000" channel="00">
+<title lang="en">00:00 ⚽ Men's College Soccer : St. Mary's 🇺🇸 vs Denver 🇺🇸</title>
+<desc lang="en">00:00</desc>
+<category lang="en">Men's College Soccer ⚽</category>
+</programme>
+<programme start="20261021220000 +0000" stop="20261022000000 +0000" channel="00">
+<title lang="en">00:00 ⚽ Men's College Soccer : Old Dominion 🇺🇸 vs Georgia State 🇺🇸</title>
+<desc lang="en">00:00</desc>
+<category lang="en">Men's College Soccer ⚽</category>
+</programme>
+<programme start="20261021220000 +0000" stop="20261022000000 +0000" channel="00">
+<title lang="en">00:00 ⚽ Men's College Soccer : Louisville 🇺🇸 vs Spalding 🇺🇸</title>
+<desc lang="en">00:00</desc>
+<category lang="en">Men's College Soccer ⚽</category>
+</programme>
+<programme start="20261021220000 +0000" stop="20261022000000 +0000" channel="00">
+<title lang="en">00:00 ⚽ Men's College Soccer : Sacred Heart 🇺🇸 vs Saint Peter's 🇺🇸</title>
+<desc lang="en">00:00</desc>
+<category lang="en">Men's College Soccer ⚽</category>
+</programme>
+<programme start="20261021230000 +0000" stop="20261022010000 +0000" channel="00">
+<title lang="en">01:00 🏐 Women's College Volleyball : SIU Edwardsville 🇺🇸 vs Lindenwood 🇺🇸</title>
+<desc lang="en">01:00</desc>
+<category lang="en">Women's College Volleyball 🏐</category>
+</programme>
+<programme start="20261021230000 +0000" stop="20261022010000 +0000" channel="00">
+<title lang="en">01:00 🏐 Women's College Volleyball : Central Arkansas 🇺🇸 vs Austin Peay 🇺🇸</title>
+<desc lang="en">01:00</desc>
+<category lang="en">Women's College Volleyball 🏐</category>
+</programme>
+<programme start="20261021230000 +0000" stop="20261022010000 +0000" channel="00">
+<title lang="en">01:00 🏒 AHL : Hamilton Hammers 🇨🇦 vs Toronto Marlies 🇨🇦</title>
+<desc lang="en">01:00</desc>
+<category lang="en">AHL Ice Hockey 🏒</category>
+</programme>
+<programme start="20261021230000 +0000" stop="20261022010000 +0000" channel="00">
+<title lang="en">01:00 🏒 AHL : Manitoba Moose 🇨🇦 vs Grand Rapids Griffins 🇺🇸</title>
+<desc lang="en">01:00</desc>
+<category lang="en">AHL Ice Hockey 🏒</category>
+</programme>
+<programme start="20261021230000 +0000" stop="20261022010000 +0000" channel="00">
+<title lang="en">01:00 ⚽ Women's College Soccer : Creighton 🇺🇸 vs UConn 🇺🇸</title>
+<desc lang="en">01:00</desc>
+<category lang="en">Women's College Soccer ⚽</category>
+</programme>
+<programme start="20261021230000 +0000" stop="20261022010000 +0000" channel="00">
+<title lang="en">01:00 ⚽ Women's College Soccer : South Carolina Upstate 🇺🇸 vs South Carolina State 🇺🇸</title>
+<desc lang="en">01:00</desc>
+<category lang="en">Women's College Soccer ⚽</category>
+</programme>
+<programme start="20261021230000 +0000" stop="20261022010000 +0000" channel="00">
+<title lang="en">01:00 ⚽ Women's College Soccer : Presbyterian 🇺🇸 vs High Point 🇺🇸</title>
+<desc lang="en">01:00</desc>
+<category lang="en">Women's College Soccer ⚽</category>
+</programme>
+<programme start="20261021230000 +0000" stop="20261022010000 +0000" channel="00">
+<title lang="en">01:00 ⚽ Women's College Soccer : Merrimack 🇺🇸 vs Siena 🇺🇸</title>
+<desc lang="en">01:00</desc>
+<category lang="en">Women's College Soccer ⚽</category>
+</programme>
+<programme start="20261021230000 +0000" stop="20261022010000 +0000" channel="00">
+<title lang="en">01:00 ⚽ Women's College Soccer : Marquette 🇺🇸 vs Xavier 🇺🇸</title>
+<desc lang="en">01:00</desc>
+<category lang="en">Women's College Soccer ⚽</category>
+</programme>
+<programme start="20261021230000 +0000" stop="20261022010000 +0000" channel="00">
+<title lang="en">01:00 ⚽ Women's College Soccer : Fairfield 🇺🇸 vs Quinnipiac 🇺🇸</title>
+<desc lang="en">01:00</desc>
+<category lang="en">Women's College Soccer ⚽</category>
+</programme>
+<programme start="20261021230000 +0000" stop="20261022010000 +0000" channel="00">
+<title lang="en">01:00 ⚽ Men's College Soccer : West Virginia 🇺🇸 vs UCF 🇺🇸</title>
+<desc lang="en">01:00</desc>
+<category lang="en">Men's College Soccer ⚽</category>
+</programme>
+<programme start="20261021230000 +0000" stop="20261022010000 +0000" channel="00">
+<title lang="en">01:00 ⚽ Men's College Soccer : South Carolina 🇺🇸 vs Georgia Southern 🇺🇸</title>
+<desc lang="en">01:00</desc>
+<category lang="en">Men's College Soccer ⚽</category>
+</programme>
+<programme start="20261021230000 +0000" stop="20261022010000 +0000" channel="00">
+<title lang="en">01:00 ⚽ Men's College Soccer : Rhode Island 🇺🇸 vs Dayton 🇺🇸</title>
+<desc lang="en">01:00</desc>
+<category lang="en">Men's College Soccer ⚽</category>
+</programme>
+<programme start="20261021230000 +0000" stop="20261022010000 +0000" channel="00">
+<title lang="en">01:00 ⚽ Men's College Soccer : La Salle 🇺🇸 vs George Mason 🇺🇸</title>
+<desc lang="en">01:00</desc>
+<category lang="en">Men's College Soccer ⚽</category>
+</programme>
+<programme start="20261021230000 +0000" stop="20261022010000 +0000" channel="00">
+<title lang="en">01:00 ⚽ Men's College Soccer : Kentucky 🇺🇸 vs Coastal Carolina 🇺🇸</title>
+<desc lang="en">01:00</desc>
+<category lang="en">Men's College Soccer ⚽</category>
+</programme>
+<programme start="20261021230000 +0000" stop="20261022010000 +0000" channel="00">
+<title lang="en">01:00 ⚽ Men's College Soccer : Davidson 🇺🇸 vs Fordham 🇺🇸</title>
+<desc lang="en">01:00</desc>
+<category lang="en">Men's College Soccer ⚽</category>
+</programme>
+<programme start="20261021230500 +0000" stop="20261022010500 +0000" channel="00">
+<title lang="en">01:05 🏒 OHL : London Knights 🇨🇦 vs Sarnia Sting 🇨🇦</title>
+<desc lang="en">01:05</desc>
+<category lang="en">OHL Ice Hockey 🏒</category>
+</programme>
+<programme start="20261021230500 +0000" stop="20261022010500 +0000" channel="00">
+<title lang="en">01:05 🏒 AHL : Utica Comets 🇺🇸 vs Rochester Americans 🇺🇸</title>
+<desc lang="en">01:05</desc>
+<category lang="en">AHL Ice Hockey 🏒</category>
+</programme>
+<programme start="20261021231000 +0000" stop="20261022011000 +0000" channel="00">
+<title lang="en">01:10 ⚽ Men's College Soccer : Marshall 🇺🇸 vs James Madison 🇺🇸</title>
+<desc lang="en">01:10</desc>
+<category lang="en">Men's College Soccer ⚽</category>
+</programme>
+<programme start="20261021233000 +0000" stop="20261022013000 +0000" channel="00">
+<title lang="en">01:30 🏐 Women's College Volleyball : Lamar 🇺🇸 vs Northwestern State 🇺🇸</title>
+<desc lang="en">01:30</desc>
+<category lang="en">Women's College Volleyball 🏐</category>
+</programme>
+<programme start="20261021233000 +0000" stop="20261022013000 +0000" channel="00">
+<title lang="en">01:30 🏐 Women's College Volleyball : Stephen F. Austin 🇺🇸 vs East Texas A&amp;amp;M 🇺🇸</title>
+<desc lang="en">01:30</desc>
+<category lang="en">Women's College Volleyball 🏐</category>
+</programme>
+<programme start="20261022000000 +0000" stop="20261022020000 +0000" channel="00">
+<title lang="en">02:00 🏒 AHL : Milwaukee Admirals 🇺🇸 vs Iowa Wild 🇺🇸</title>
+<desc lang="en">02:00</desc>
+<category lang="en">AHL Ice Hockey 🏒</category>
+</programme>
+<programme start="20261022000000 +0000" stop="20261022020000 +0000" channel="00">
+<title lang="en">02:00 ⚽ Women's College Soccer : Utah Valley 🇺🇸 vs Sacramento State 🇺🇸</title>
+<desc lang="en">02:00</desc>
+<category lang="en">Women's College Soccer ⚽</category>
+</programme>
+<programme start="20261022003000 +0000" stop="20261022023000 +0000" channel="00">
+<title lang="en">02:30 🏒 WHL : Everett Silvertips 🇺🇸 vs Saskatoon Blades 🇨🇦</title>
+<desc lang="en">02:30</desc>
+<category lang="en">WHL Ice Hockey 🏒</category>
+</programme>
+<programme start="20261022003000 +0000" stop="20261022023000 +0000" channel="00">
+<title lang="en">02:30 🏀 Men's College Basketball : Oregon 🇺🇸 vs Utah 🇺🇸</title>
+<desc lang="en">02:30</desc>
+<category lang="en">Men's College Basketball 🏀</category>
+</programme>
+<programme start="20261022010000 +0000" stop="20261022030000 +0000" channel="00">
+<title lang="en">03:00 🏒 WHL : Seattle Thunderbirds 🇺🇸 vs Regina Pats 🇨🇦</title>
+<desc lang="en">03:00</desc>
+<category lang="en">WHL Ice Hockey 🏒</category>
+</programme>
+<programme start="20261022010000 +0000" stop="20261022030000 +0000" channel="00">
+<title lang="en">03:00 🏒 WHL : Penticton Vees 🇨🇦 vs Calgary Hitmen 🇨🇦</title>
+<desc lang="en">03:00</desc>
+<category lang="en">WHL Ice Hockey 🏒</category>
+</programme>
+<programme start="20261022010000 +0000" stop="20261022030000 +0000" channel="00">
+<title lang="en">03:00 ⚽ Women's College Soccer : CSU Fullerton 🇺🇸 vs CSU Bakersfield 🇺🇸</title>
+<desc lang="en">03:00</desc>
+<category lang="en">Women's College Soccer ⚽</category>
+</programme>
+<programme start="20261022010000 +0000" stop="20261022030000 +0000" channel="00">
+<title lang="en">03:00 ⚽ Women's College Soccer : Cal Poly 🇺🇸 vs UC Santa Barbara 🇺🇸</title>
+<desc lang="en">03:00</desc>
+<category lang="en">Women's College Soccer ⚽</category>
+</programme>
+<programme start="20261022010000 +0000" stop="20261022030000 +0000" channel="00">
+<title lang="en">03:00 ⚽ Men's College Soccer : UC Irvine 🇺🇸 vs Cal Poly 🇺🇸</title>
+<desc lang="en">03:00</desc>
+<category lang="en">Men's College Soccer ⚽</category>
+</programme>
+<programme start="20261022020000 +0000" stop="20261022040000 +0000" channel="00">
+<title lang="en">04:00 🏒 WHL : Vancouver Giants 🇨🇦 vs Prince George Cougars 🇨🇦</title>
+<desc lang="en">04:00</desc>
+<category lang="en">WHL Ice Hockey 🏒</category>
+</programme>
+<programme start="20261022020000 +0000" stop="20261022040000 +0000" channel="00">
+<title lang="en">04:00 🏒 WHL : Tri-City Americans 🇺🇸 vs Kamloops Blazers 🇨🇦</title>
+<desc lang="en">04:00</desc>
+<category lang="en">WHL Ice Hockey 🏒</category>
+</programme>
+<programme start="20261022020000 +0000" stop="20261022040000 +0000" channel="00">
+<title lang="en">04:00 🏒 AHL : Coachella Valley Firebirds 🇺🇸 vs San Diego Gulls 🇺🇸</title>
+<desc lang="en">04:00</desc>
+<category lang="en">AHL Ice Hockey 🏒</category>
+</programme>
+<programme start="20261022020000 +0000" stop="20261022040000 +0000" channel="00">
+<title lang="en">04:00 🏀 Men's College Basketball : California Baptist 🇺🇸 vs UCLA 🇺🇸 (Exhibition Game)</title>
+<desc lang="en">04:00</desc>
+<category lang="en">Men's College Basketball 🏀</category>
+</programme>
+<programme start="20261022020000 +0000" stop="20261022040000 +0000" channel="00">
+<title lang="en">04:00 ⚽ Women's College Soccer : UC San Diego 🇺🇸 vs Long Beach State 🇺🇸</title>
+<desc lang="en">04:00</desc>
+<category lang="en">Women's College Soccer ⚽</category>
+</programme>
+<programme start="20261022020000 +0000" stop="20261022040000 +0000" channel="00">
+<title lang="en">04:00 ⚽ Women's College Soccer : UC Riverside 🇺🇸 vs CSU Northridge 🇺🇸</title>
+<desc lang="en">04:00</desc>
+<category lang="en">Women's College Soccer ⚽</category>
+</programme>
+<programme start="20261022020000 +0000" stop="20261022040000 +0000" channel="00">
+<title lang="en">04:00 ⚽ Women's College Soccer : California Baptist 🇺🇸 vs UC Irvine 🇺🇸</title>
+<desc lang="en">04:00</desc>
+<category lang="en">Women's College Soccer ⚽</category>
+</programme>
+<programme start="20261022020000 +0000" stop="20261022040000 +0000" channel="00">
+<title lang="en">04:00 ⚽ Men's College Soccer : UC Santa Barbara 🇺🇸 vs California Baptist 🇺🇸</title>
+<desc lang="en">04:00</desc>
+<category lang="en">Men's College Soccer ⚽</category>
+</programme>
+<programme start="20261022020000 +0000" stop="20261022040000 +0000" channel="00">
+<title lang="en">04:00 ⚽ Men's College Soccer : Seattle U 🇺🇸 vs Portland 🇺🇸</title>
+<desc lang="en">04:00</desc>
+<category lang="en">Men's College Soccer ⚽</category>
+</programme>
+<programme start="20261022020000 +0000" stop="20261022040000 +0000" channel="00">
+<title lang="en">04:00 ⚽ Men's College Soccer : San Francisco 🇺🇸 vs Pacific 🇺🇸</title>
+<desc lang="en">04:00</desc>
+<category lang="en">Men's College Soccer ⚽</category>
+</programme>
+<programme start="20261022020000 +0000" stop="20261022040000 +0000" channel="00">
+<title lang="en">04:00 ⚽ Men's College Soccer : San Diego 🇺🇸 vs Santa Clara 🇺🇸</title>
+<desc lang="en">04:00</desc>
+<category lang="en">Men's College Soccer ⚽</category>
+</programme>
+<programme start="20261022020000 +0000" stop="20261022040000 +0000" channel="00">
+<title lang="en">04:00 ⚽ Men's College Soccer : CSU Northridge 🇺🇸 vs UC San Diego 🇺🇸</title>
+<desc lang="en">04:00</desc>
+<category lang="en">Men's College Soccer ⚽</category>
+</programme>
+<programme start="20261022020500 +0000" stop="20261022040500 +0000" channel="00">
+<title lang="en">04:05 🏒 WHL : Portland Winterhawks 🇺🇸 vs Kelowna Rockets 🇨🇦</title>
+<desc lang="en">04:05</desc>
+<category lang="en">WHL Ice Hockey 🏒</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="5000">
+<title lang="en">21:00 🥊 Boxing WBA : Tyson Fury vs Anthony Joshua Fight live on Friday, December 11, 2026</title>
+<desc lang="en">21:00</desc>
+<category lang="en">Upcoming Events</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="1218">
+<title lang="en">21:00 ⚽ England - League One : Reading 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Leyton Orient 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">21:00</desc>
+<category lang="en">England - League One ⚽</category>
+</programme>
+<programme start="20261021083000 +0000" stop="20261021103000 +0000" channel="5">
+<title lang="en">10:30 ⚽ Indonesia - Super League : Bali United 🇮🇩 vs Garudayaksa 🇮🇩</title>
+<desc lang="en">10:30</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021120000 +0000" stop="20261021140000 +0000" channel="5">
+<title lang="en">14:00 ⚽ Indonesia - Super League : Persija 🇮🇩 vs Arema 🇮🇩</title>
+<desc lang="en">14:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="5">
+<title lang="en">21:00 ⚽ UEFA Champions League : Aston Villa 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Viking 🇳🇴</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021233000 +0000" stop="20261022013000 +0000" channel="5">
+<title lang="en">01:30 🏀 NBA : Brooklyn Nets 🇺🇸 vs Charlotte Hornets 🇺🇸</title>
+<desc lang="en">01:30</desc>
+<category lang="en">NBA 🏀</category>
+</programme>
+<programme start="20261021140000 +0000" stop="20261021160000 +0000" channel="8">
+<title lang="en">16:00 ⚽ Egyptian Premier League : Ghazl El Mehalla 🇪🇬 vs Al Ittihad 🇪🇬</title>
+<desc lang="en">16:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="8">
+<title lang="en">21:00 ⚽ UEFA Champions League : Bayern München 🇩🇪 vs Arsenal 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261022000000 +0000" stop="20261022020000 +0000" channel="8">
+<title lang="en">02:00 🏀 NBA : Memphis Grizzlies 🇺🇸 vs Utah Jazz 🇺🇸</title>
+<desc lang="en">02:00</desc>
+<category lang="en">NBA 🏀</category>
+</programme>
+<programme start="20261021144500 +0000" stop="20261021164500 +0000" channel="9">
+<title lang="en">16:45 ⚽ Saudi Arabia - Division 1 : Al Jeel 🇸🇦 vs Al Jandal 🇸🇦</title>
+<desc lang="en">16:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="9">
+<title lang="en">21:00 ⚽ UEFA Champions League : Bayern München 🇩🇪 vs Arsenal 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261022000000 +0000" stop="20261022020000 +0000" channel="9">
+<title lang="en">02:00 🏀 NBA : New Orleans Pelicans 🇺🇸 vs Indiana Pacers 🇺🇸</title>
+<desc lang="en">02:00</desc>
+<category lang="en">NBA 🏀</category>
+</programme>
+<programme start="20261021150000 +0000" stop="20261021170000 +0000" channel="10">
+<title lang="en">17:00 ⚽ Saudi Arabia - Division 1 : Al-Anwar 🇸🇦 vs Al Wehda 🇸🇦</title>
+<desc lang="en">17:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="10">
+<title lang="en">21:00 ⚽ UEFA Champions League : Bayern München 🇩🇪 vs Arsenal 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261022003000 +0000" stop="20261022023000 +0000" channel="10">
+<title lang="en">02:30 🏀 NBA : Houston Rockets 🇺🇸 vs Dallas Mavericks 🇺🇸</title>
+<desc lang="en">02:30</desc>
+<category lang="en">NBA 🏀</category>
+</programme>
+<programme start="20261021153000 +0000" stop="20261021173000 +0000" channel="1">
+<title lang="en">17:30 ⚽ Slovakia - Slovenský Pohár : Zlaté Moravce 🇸🇰 vs Komárno 🇸🇰</title>
+<desc lang="en">17:30</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="1">
+<title lang="en">21:00 ⚽ UEFA Champions League : Bayern München 🇩🇪 vs Arsenal 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021233000 +0000" stop="20261022013000 +0000" channel="1">
+<title lang="en">01:30 🏒 NHL : Philadelphia Flyers 🇺🇸 vs Buffalo Sabres 🇺🇸</title>
+<desc lang="en">01:30</desc>
+<category lang="en">Ice Hockey (NHL) 🏒</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="5003">
+<title lang="en">18:45 ⚽ UEFA Champions League : The Golazo Show</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="5003">
+<title lang="en">21:00 ⚽ UEFA Champions League : The Golazo Show</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="107">
+<title lang="en">18:45 ⚽ UEFA Champions League : Simulcast 🇪🇺</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="161">
+<title lang="en">18:45 ⚽ UEFA Champions League : Simulcast 🇪🇺</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="161">
+<title lang="en">21:00 ⚽ UEFA Champions League : Simulcast 🇪🇺</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="160">
+<title lang="en">18:45 ⚽ UEFA Champions League : Simulcast 🇪🇺</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="160">
+<title lang="en">21:00 ⚽ UEFA Champions League : Simulcast 🇪🇺</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="108">
+<title lang="en">18:45 ⚽ UEFA Champions League : Lille 🇫🇷 vs Galatasaray 🇹🇷</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="1201">
+<title lang="en">18:45 ⚽ UEFA Champions League : Lille 🇫🇷 vs Galatasaray 🇹🇷</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="1012">
+<title lang="en">18:45 ⚽ UEFA Champions League : Lille 🇫🇷 vs Galatasaray 🇹🇷</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="2">
+<title lang="en">18:45 ⚽ UEFA Champions League : Lille 🇫🇷 vs Galatasaray 🇹🇷</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="2">
+<title lang="en">21:00 ⚽ UEFA Champions League : Real Madrid 🇪🇸 vs RB Leipzig 🇩🇪</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021230000 +0000" stop="20261022010000 +0000" channel="2">
+<title lang="en">01:00 🏀 NBA : Orlando Magic 🇺🇸 vs Atlanta Hawks 🇺🇸</title>
+<desc lang="en">01:00</desc>
+<category lang="en">NBA 🏀</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="23">
+<title lang="en">18:45 ⚽ UEFA Champions League : Lille 🇫🇷 vs Galatasaray 🇹🇷</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="23">
+<title lang="en">21:00 ⚽ UEFA Champions League : Real Madrid 🇪🇸 vs RB Leipzig 🇩🇪</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="985">
+<title lang="en">18:45 ⚽ UEFA Champions League : Lille 🇫🇷 vs Galatasaray 🇹🇷</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="985">
+<title lang="en">21:00 ⚽ UEFA Champions League : Aston Villa 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Viking 🇳🇴</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="159">
+<title lang="en">18:45 ⚽ UEFA Champions League : Lille 🇫🇷 vs Galatasaray 🇹🇷</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="159">
+<title lang="en">21:00 ⚽ UEFA Champions League : Internazionale 🇮🇹 vs Shakhtar Donetsk 🇺🇦</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="6">
+<title lang="en">18:45 ⚽ UEFA Champions League : Lille 🇫🇷 vs Galatasaray 🇹🇷</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="6">
+<title lang="en">21:00 ⚽ UEFA Champions League : Bayern München 🇩🇪 vs Arsenal 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021233000 +0000" stop="20261022013000 +0000" channel="6">
+<title lang="en">01:30 🏀 NBA : Toronto Raptors 🇨🇦 vs Chicago Bulls 🇺🇸</title>
+<desc lang="en">01:30</desc>
+<category lang="en">NBA 🏀</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="76">
+<title lang="en">18:45 ⚽ UEFA Champions League : Lille 🇫🇷 vs Galatasaray 🇹🇷</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="76">
+<title lang="en">21:00 ⚽ UEFA Champions League : Bayern München 🇩🇪 vs Arsenal 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="24">
+<title lang="en">18:45 ⚽ UEFA Champions League : Lille 🇫🇷 vs Galatasaray 🇹🇷</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="24">
+<title lang="en">21:00 ⚽ UEFA Champions League : Internazionale 🇮🇹 vs Shakhtar Donetsk 🇺🇦</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021140000 +0000" stop="20261021160000 +0000" channel="919">
+<title lang="en">16:00 ⚽ UEFA Youth League : Inter U19 🇮🇹 vs Shakhtar Donetsk U19 🇺🇦</title>
+<desc lang="en">16:00</desc>
+<category lang="en">UEFA Youth League ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="919">
+<title lang="en">18:45 ⚽ UEFA Champions League : Lille 🇫🇷 vs Galatasaray 🇹🇷</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="919">
+<title lang="en">21:00 ⚽ UEFA Champions League : Real Madrid 🇪🇸 vs RB Leipzig 🇩🇪</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="1026">
+<title lang="en">18:45 ⚽ UEFA Champions League : Lille 🇫🇷 vs Galatasaray 🇹🇷</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="1026">
+<title lang="en">21:00 ⚽ UEFA Champions League : Real Madrid 🇪🇸 vs RB Leipzig 🇩🇪</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="787">
+<title lang="en">18:45 ⚽ UEFA Champions League : Lille 🇫🇷 vs Galatasaray 🇹🇷</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="787">
+<title lang="en">21:00 ⚽ UEFA Champions League : Bayern München 🇩🇪 vs Arsenal 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261022003000 +0000" stop="20261022023000 +0000" channel="787">
+<title lang="en">02:30 ⚽ South America - Copa Libertadores : Palmeiras 🇧🇷 vs Fluminense 🇧🇷</title>
+<desc lang="en">02:30</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="3004">
+<title lang="en">18:45 ⚽ UEFA Champions League : Lille 🇫🇷 vs Galatasaray 🇹🇷</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="3050">
+<title lang="en">18:45 ⚽ UEFA Champions League : Lille 🇫🇷 vs Galatasaray 🇹🇷</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="4105">
+<title lang="en">18:45 ⚽ UEFA Champions League : Lille 🇫🇷 vs Galatasaray 🇹🇷</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021120000 +0000" stop="20261021140000 +0000" channel="4104">
+<title lang="en">14:00 ⚽ UEFA Youth League : Lille U19 🇫🇷 vs Galatasaray U19 🇹🇷</title>
+<desc lang="en">14:00</desc>
+<category lang="en">UEFA Youth League ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="4104">
+<title lang="en">18:45 ⚽ UEFA Champions League : Lille 🇫🇷 vs Galatasaray 🇹🇷</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="5002">
+<title lang="en">18:45 ⚽ UEFA Champions League : Lille 🇫🇷 vs Galatasaray 🇹🇷</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="5030">
+<title lang="en">18:45 ⚽ UEFA Champions League : Lille 🇫🇷 vs Galatasaray 🇹🇷</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="5030">
+<title lang="en">21:00 ⚽ UEFA Champions League : Aston Villa 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Viking 🇳🇴</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="5040">
+<title lang="en">18:45 ⚽ UEFA Champions League : Lille 🇫🇷 vs Galatasaray 🇹🇷</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="5040">
+<title lang="en">21:00 ⚽ UEFA Champions League : Aston Villa 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Viking 🇳🇴</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="4003">
+<title lang="en">18:45 ⚽ UEFA Champions League : Lille 🇫🇷 vs Galatasaray 🇹🇷</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="4003">
+<title lang="en">21:00 ⚽ UEFA Champions League : Real Betis 🇪🇸 vs Feyenoord 🇳🇱</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="109">
+<title lang="en">18:45 ⚽ UEFA Champions League : Como 🇮🇹 vs Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="1202">
+<title lang="en">18:45 ⚽ UEFA Champions League : Como 🇮🇹 vs Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="3">
+<title lang="en">18:45 ⚽ UEFA Champions League : Como 🇮🇹 vs Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021200000 +0000" stop="20261021220000 +0000" channel="3">
+<title lang="en">22:00 ⚽ South America - Copa Libertadores Femenina : Colo-colo W 🇨🇱 vs CaracAS W 🇻🇪</title>
+<desc lang="en">22:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021230000 +0000" stop="20261022010000 +0000" channel="3">
+<title lang="en">01:00 🏀 NBA : Washington Wizards 🇺🇸 vs Milwaukee Bucks 🇺🇸</title>
+<desc lang="en">01:00</desc>
+<category lang="en">NBA 🏀</category>
+</programme>
+<programme start="20261021120000 +0000" stop="20261021140000 +0000" channel="4">
+<title lang="en">14:00 ⚽ UEFA Youth League : Lille U19 🇫🇷 vs Galatasaray U19 🇹🇷</title>
+<desc lang="en">14:00</desc>
+<category lang="en">UEFA Youth League ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="4">
+<title lang="en">18:45 ⚽ UEFA Champions League : Como 🇮🇹 vs Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="4">
+<title lang="en">21:00 ⚽ UEFA Champions League : Real Betis 🇪🇸 vs Feyenoord 🇳🇱</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021220000 +0000" stop="20261022000000 +0000" channel="4">
+<title lang="en">00:00 ⚽ South America - Copa Sudamericana : Torque 🇺🇾 vs Atlético Mineiro 🇧🇷</title>
+<desc lang="en">00:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="162">
+<title lang="en">18:45 ⚽ UEFA Champions League : Como 🇮🇹 vs Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="162">
+<title lang="en">21:00 ⚽ UEFA Champions League : Real Madrid 🇪🇸 vs RB Leipzig 🇩🇪</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="55">
+<title lang="en">18:45 ⚽ UEFA Champions League : Como 🇮🇹 vs Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="55">
+<title lang="en">21:00 ⚽ UEFA Champions League : Real Madrid 🇪🇸 vs RB Leipzig 🇩🇪</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021230000 +0000" stop="20261022010000 +0000" channel="55">
+<title lang="en">01:00 ⚽ Major League Soccer : Cincinnati 🇺🇸 vs DC United 🇺🇸</title>
+<desc lang="en">01:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="163">
+<title lang="en">18:45 ⚽ UEFA Champions League : Como 🇮🇹 vs Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="1061">
+<title lang="en">18:45 ⚽ UEFA Champions League : Como 🇮🇹 vs Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="1061">
+<title lang="en">21:00 ⚽ UEFA Champions League : Aston Villa 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Viking 🇳🇴</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="1024">
+<title lang="en">18:45 ⚽ UEFA Champions League : Como 🇮🇹 vs Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="1024">
+<title lang="en">21:00 ⚽ UEFA Champions League : Aston Villa 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Viking 🇳🇴</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="984">
+<title lang="en">18:45 ⚽ UEFA Champions League : Como 🇮🇹 vs Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="984">
+<title lang="en">21:00 ⚽ UEFA Champions League : Real Madrid 🇪🇸 vs RB Leipzig 🇩🇪</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021140000 +0000" stop="20261021160000 +0000" channel="886">
+<title lang="en">16:00 ⚽ UEFA Youth League : Inter U19 🇮🇹 vs Shakhtar Donetsk U19 🇺🇦</title>
+<desc lang="en">16:00</desc>
+<category lang="en">UEFA Youth League ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="886">
+<title lang="en">18:45 ⚽ UEFA Champions League : Como 🇮🇹 vs Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="886">
+<title lang="en">21:00 ⚽ UEFA Champions League : Bayern München 🇩🇪 vs Arsenal 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="3002">
+<title lang="en">18:45 ⚽ UEFA Champions League : Como 🇮🇹 vs Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="3029">
+<title lang="en">18:45 ⚽ UEFA Champions League : Como 🇮🇹 vs Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="3047">
+<title lang="en">18:45 ⚽ UEFA Champions League : Como 🇮🇹 vs Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="4102">
+<title lang="en">18:45 ⚽ UEFA Champions League : Como 🇮🇹 vs Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021140000 +0000" stop="20261021160000 +0000" channel="4108">
+<title lang="en">16:00 ⚽ UEFA Youth League : Inter U19 🇮🇹 vs Shakhtar Donetsk U19 🇺🇦</title>
+<desc lang="en">16:00</desc>
+<category lang="en">UEFA Youth League ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="4108">
+<title lang="en">18:45 ⚽ UEFA Champions League : Como 🇮🇹 vs Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="4103">
+<title lang="en">18:45 ⚽ UEFA Champions League : Como 🇮🇹 vs Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="5001">
+<title lang="en">18:45 ⚽ UEFA Champions League : Como 🇮🇹 vs Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="5031">
+<title lang="en">18:45 ⚽ UEFA Champions League : Como 🇮🇹 vs Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="5031">
+<title lang="en">21:00 ⚽ UEFA Champions League : Bayern München 🇩🇪 vs Arsenal 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="5041">
+<title lang="en">18:45 ⚽ UEFA Champions League : Como 🇮🇹 vs Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="5041">
+<title lang="en">21:00 ⚽ UEFA Champions League : Bayern München 🇩🇪 vs Arsenal 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="4002">
+<title lang="en">18:45 ⚽ UEFA Champions League : Como 🇮🇹 vs Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="4002">
+<title lang="en">21:00 ⚽ UEFA Champions League : Aston Villa 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Viking 🇳🇴</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="4010">
+<title lang="en">18:45 ⚽ UEFA Champions League : Como 🇮🇹 vs Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">18:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="4010">
+<title lang="en">21:00 ⚽ UEFA Champions League : Real Madrid 🇪🇸 vs RB Leipzig 🇩🇪</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021165000 +0000" stop="20261021185000 +0000" channel="164">
+<title lang="en">18:50 ⚽ Saudi Arabia - Division 1 : Jeddah 🇸🇦 vs Al Jabalain 🇸🇦</title>
+<desc lang="en">18:50</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="1205">
+<title lang="en">19:00 ⚽ Egyptian Premier League : Al Ahly 🇪🇬 vs El Qanah 🇪🇬</title>
+<desc lang="en">19:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="1207">
+<title lang="en">19:00 ⚽ Denmark Cup : Vanlose vs Nykobing</title>
+<desc lang="en">19:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="165">
+<title lang="en">19:00 ⚽ Egyptian Premier League : Ceramica Cleopatra 🇪🇬 vs Petrojet 🇪🇬</title>
+<desc lang="en">19:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="1204">
+<title lang="en">19:00 Egypt Premier League : Ceramica Cleopatra vs Petrojet</title>
+<desc lang="en">19:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="1204">
+<title lang="en">19:00 ⚽ Egyptian Premier League : Ceramica Cleopatra 🇪🇬 vs Petrojet 🇪🇬</title>
+<desc lang="en">19:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021180000 +0000" stop="20261021200000 +0000" channel="1216">
+<title lang="en">20:00 ⚽ FIFA U-17 Women's World Cup : Venezuela U17 🇻🇪 vs Zambia U17 🇿🇲</title>
+<desc lang="en">20:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021180000 +0000" stop="20261021200000 +0000" channel="1217">
+<title lang="en">20:00 ⚽ FIFA U-17 Women's World Cup : Ghana U17 🇬🇭 vs Brazil U17 🇧🇷</title>
+<desc lang="en">20:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021180000 +0000" stop="20261021200000 +0000" channel="1215">
+<title lang="en">20:00 ⚽ Spain - La Liga : Levante 🇪🇸 vs Athletic Club 🇪🇸</title>
+<desc lang="en">20:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021180000 +0000" stop="20261021200000 +0000" channel="59">
+<title lang="en">20:00 ⚽ Spain - La Liga : Levante 🇪🇸 vs Athletic Club 🇪🇸</title>
+<desc lang="en">20:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021223000 +0000" stop="20261022003000 +0000" channel="59">
+<title lang="en">00:30 ⚽ USL League One : Sarasota Paradise 🇺🇸 vs Naples 🇺🇸</title>
+<desc lang="en">00:30</desc>
+<category lang="en">USL League One ⚽</category>
+</programme>
+<programme start="20261021180000 +0000" stop="20261021200000 +0000" channel="25">
+<title lang="en">20:00 ⚽ Spain - La Liga : Levante 🇪🇸 vs Athletic Club 🇪🇸</title>
+<desc lang="en">20:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021160000 +0000" stop="20261021180000 +0000" channel="27">
+<title lang="en">18:00 🏀 Champions League : AEK 🇬🇷 vs Antwerp 🇧🇪</title>
+<desc lang="en">18:00</desc>
+<category lang="en">Champions League Basketball 🏀</category>
+</programme>
+<programme start="20261021180000 +0000" stop="20261021200000 +0000" channel="27">
+<title lang="en">20:00 ⚽ Spain - La Liga : Levante 🇪🇸 vs Athletic Club 🇪🇸</title>
+<desc lang="en">20:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021180000 +0000" stop="20261021200000 +0000" channel="3010">
+<title lang="en">20:00 ⚽ Spain - La Liga : Levante 🇪🇸 vs Athletic Club 🇪🇸</title>
+<desc lang="en">20:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021180000 +0000" stop="20261021200000 +0000" channel="3086">
+<title lang="en">20:00 ⚽ Spain - La Liga : Levante 🇪🇸 vs Athletic Club 🇪🇸</title>
+<desc lang="en">20:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021183000 +0000" stop="20261021203000 +0000" channel="1219">
+<title lang="en">20:30 ⚽ Uruguay Copa : Liverpool M vs Cerro Largo</title>
+<desc lang="en">20:30</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021184500 +0000" stop="20261021204500 +0000" channel="166">
+<title lang="en">20:45 ⚽ Scotland - SWPL 1 : Glasgow City LFC 🏴󠁧󠁢󠁳󠁣󠁴󠁿 vs Rangers LFC 🏴󠁧󠁢󠁳󠁣󠁴󠁿</title>
+<desc lang="en">20:45</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="110">
+<title lang="en">21:00 ⚽ UEFA Champions League : Simulcast 🇪🇺</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="1220">
+<title lang="en">21:00 ⚽ UEFA Champions League : Simulcast 🇪🇺</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="986">
+<title lang="en">21:00 ⚽ UEFA Champions League : Simulcast 🇪🇺</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="151">
+<title lang="en">21:00 ⚽ UEFA Champions League : Aston Villa 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Viking 🇳🇴</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="1223">
+<title lang="en">21:00 ⚽ UEFA Champions League : Aston Villa 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Viking 🇳🇴</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="167">
+<title lang="en">21:00 ⚽ UEFA Champions League : Aston Villa 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Viking 🇳🇴</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="168">
+<title lang="en">21:00 ⚽ UEFA Champions League : Aston Villa 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Viking 🇳🇴</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="181">
+<title lang="en">21:00 ⚽ UEFA Champions League : Aston Villa 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Viking 🇳🇴</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="19">
+<title lang="en">19:00 🏀 Eurocup : PAOK 🇬🇷 vs Ulm 🇩🇪</title>
+<desc lang="en">19:00</desc>
+<category lang="en">Eurocup Basketball 🏀</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="19">
+<title lang="en">21:00 ⚽ UEFA Champions League : Aston Villa 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Viking 🇳🇴</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="68">
+<title lang="en">21:00 ⚽ UEFA Champions League : Aston Villa 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Viking 🇳🇴</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021230000 +0000" stop="20261022010000 +0000" channel="68">
+<title lang="en">01:00 ⚽ USL League One : NY Cosmos 🇺🇸 vs Spokane Velocity 🇺🇸</title>
+<desc lang="en">01:00</desc>
+<category lang="en">USL League One ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="69">
+<title lang="en">21:00 ⚽ UEFA Champions League : Aston Villa 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Viking 🇳🇴</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021233000 +0000" stop="20261022013000 +0000" channel="69">
+<title lang="en">01:30 ⚽ USL Championship : Sporting JAX 🇺🇸 vs Louisville City 🇺🇸</title>
+<desc lang="en">01:30</desc>
+<category lang="en">USL Championship ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="5004">
+<title lang="en">21:00 ⚽ UEFA Champions League : Aston Villa 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Viking 🇳🇴</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="152">
+<title lang="en">21:00 ⚽ UEFA Champions League : Bayern München 🇩🇪 vs Arsenal 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="1222">
+<title lang="en">21:00 ⚽ UEFA Champions League : Bayern München 🇩🇪 vs Arsenal 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="7">
+<title lang="en">21:00 ⚽ UEFA Champions League : Bayern München 🇩🇪 vs Arsenal 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021233000 +0000" stop="20261022013000 +0000" channel="7">
+<title lang="en">01:30 🏀 NBA : Miami Heat 🇺🇸 vs Minnesota Timberwolves 🇺🇸</title>
+<desc lang="en">01:30</desc>
+<category lang="en">NBA 🏀</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="1060">
+<title lang="en">21:00 ⚽ UEFA Champions League : Bayern München 🇩🇪 vs Arsenal 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="169">
+<title lang="en">21:00 ⚽ UEFA Champions League : Bayern München 🇩🇪 vs Arsenal 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="1023">
+<title lang="en">21:00 ⚽ UEFA Champions League : Bayern München 🇩🇪 vs Arsenal 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="983">
+<title lang="en">21:00 ⚽ UEFA Champions League : Bayern München 🇩🇪 vs Arsenal 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="885">
+<title lang="en">21:00 ⚽ UEFA Champions League : Real Madrid 🇪🇸 vs RB Leipzig 🇩🇪</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="885">
+<title lang="en">21:00 ⚽ UEFA Champions League : Bayern München 🇩🇪 vs Arsenal 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="5005">
+<title lang="en">21:00 ⚽ UEFA Champions League : Bayern München 🇩🇪 vs Arsenal 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="4001">
+<title lang="en">21:00 ⚽ UEFA Champions League : Bayern München 🇩🇪 vs Arsenal 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="153">
+<title lang="en">21:00 ⚽ UEFA Champions League : Real Betis 🇪🇸 vs Feyenoord 🇳🇱</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="1227">
+<title lang="en">21:00 ⚽ UEFA Champions League : Real Betis 🇪🇸 vs Feyenoord 🇳🇱</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021093000 +0000" stop="20261021113000 +0000" channel="11">
+<title lang="en">11:30 🏒 Russia KHL : Admiral Vladivostok 🇷🇺 vs Barys Astana 🇰🇿 scores</title>
+<desc lang="en">11:30</desc>
+<category lang="en">KHL Ice Hockey 🏒</category>
+</programme>
+<programme start="20261021160000 +0000" stop="20261021180000 +0000" channel="11">
+<title lang="en">18:00 🏒 Russia KHL : Ak Bars Kazan 🇷🇺 vs Torpedo Nizhny Novgorod 🇷🇺</title>
+<desc lang="en">18:00</desc>
+<category lang="en">KHL Ice Hockey 🏒</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="11">
+<title lang="en">21:00 ⚽ UEFA Champions League : Real Betis 🇪🇸 vs Feyenoord 🇳🇱</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261022020000 +0000" stop="20261022040000 +0000" channel="11">
+<title lang="en">04:00 🏀 NBA : Portland Trail Blazers 🇺🇸 vs Phoenix Suns 🇺🇸</title>
+<desc lang="en">04:00</desc>
+<category lang="en">NBA 🏀</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="77">
+<title lang="en">21:00 ⚽ UEFA Champions League : Real Betis 🇪🇸 vs Feyenoord 🇳🇱</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="170">
+<title lang="en">21:00 ⚽ UEFA Champions League : Real Betis 🇪🇸 vs Feyenoord 🇳🇱</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021160000 +0000" stop="20261021180000 +0000" channel="171">
+<title lang="en">18:00 🏀 Euroleague : Hapoel Tel-Aviv 🇮🇱 vs Virtus Bologna 🇮🇹</title>
+<desc lang="en">18:00</desc>
+<category lang="en">Euroleague Basketball 🏀</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="171">
+<title lang="en">21:00 ⚽ UEFA Champions League : Real Betis 🇪🇸 vs Feyenoord 🇳🇱</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="988">
+<title lang="en">21:00 ⚽ UEFA Champions League : Real Betis 🇪🇸 vs Feyenoord 🇳🇱</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="86">
+<title lang="en">21:00 ⚽ UEFA Champions League : Real Betis 🇪🇸 vs Feyenoord 🇳🇱</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="172">
+<title lang="en">21:00 ⚽ UEFA Champions League : Real Betis 🇪🇸 vs Feyenoord 🇳🇱</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="5006">
+<title lang="en">21:00 ⚽ UEFA Champions League : Real Betis 🇪🇸 vs Feyenoord 🇳🇱</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="5032">
+<title lang="en">21:00 ⚽ UEFA Champions League : Real Betis 🇪🇸 vs Feyenoord 🇳🇱</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="5042">
+<title lang="en">21:00 ⚽ UEFA Champions League : Real Betis 🇪🇸 vs Feyenoord 🇳🇱</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="154">
+<title lang="en">21:00 ⚽ UEFA Champions League : Club Brugge 🇧🇪 vs Lens 🇫🇷</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="1226">
+<title lang="en">21:00 ⚽ UEFA Champions League : Club Brugge 🇧🇪 vs Lens 🇫🇷</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="173">
+<title lang="en">21:00 ⚽ UEFA Champions League : Club Brugge 🇧🇪 vs Lens 🇫🇷</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="174">
+<title lang="en">21:00 ⚽ UEFA Champions League : Club Brugge 🇧🇪 vs Lens 🇫🇷</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021130000 +0000" stop="20261021150000 +0000" channel="12">
+<title lang="en">15:00 🏐 Champions League Semifinal: Haryana Hurricanes 🇮🇳 vs Emperia Marathas 🇮🇳</title>
+<desc lang="en">15:00</desc>
+<category lang="en">Volleyball 🏐</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="12">
+<title lang="en">21:00 ⚽ UEFA Champions League : Club Brugge 🇧🇪 vs Lens 🇫🇷</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261022020000 +0000" stop="20261022040000 +0000" channel="12">
+<title lang="en">04:00 🏀 NBA : Los Angeles Lakers 🇺🇸 vs Golden State Warriors 🇺🇸</title>
+<desc lang="en">04:00</desc>
+<category lang="en">NBA 🏀</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="175">
+<title lang="en">21:00 ⚽ UEFA Champions League : Club Brugge 🇧🇪 vs Lens 🇫🇷</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="13">
+<title lang="en">21:00 ⚽ UEFA Champions League : Club Brugge 🇧🇪 vs Lens 🇫🇷</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261022023000 +0000" stop="20261022043000 +0000" channel="13">
+<title lang="en">04:30 🏀 NBA : Los Angeles Clippers 🇺🇸 vs Sacramento Kings 🇺🇸</title>
+<desc lang="en">04:30</desc>
+<category lang="en">NBA 🏀</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="987">
+<title lang="en">21:00 ⚽ UEFA Champions League : Club Brugge 🇧🇪 vs Lens 🇫🇷</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="5007">
+<title lang="en">21:00 ⚽ UEFA Champions League : Club Brugge 🇧🇪 vs Lens 🇫🇷</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="5033">
+<title lang="en">21:00 ⚽ UEFA Champions League : Club Brugge 🇧🇪 vs Lens 🇫🇷</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="5043">
+<title lang="en">21:00 ⚽ UEFA Champions League : Club Brugge 🇧🇪 vs Lens 🇫🇷</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="4006">
+<title lang="en">21:00 ⚽ UEFA Champions League : Club Brugge 🇧🇪 vs Lens 🇫🇷</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="155">
+<title lang="en">21:00 ⚽ UEFA Champions League : Internazionale 🇮🇹 vs Shakhtar Donetsk 🇺🇦</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="1224">
+<title lang="en">21:00 ⚽ UEFA Champions League : Internazionale 🇮🇹 vs Shakhtar Donetsk 🇺🇦</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="176">
+<title lang="en">21:00 ⚽ UEFA Champions League : Internazionale 🇮🇹 vs Shakhtar Donetsk 🇺🇦</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="177">
+<title lang="en">21:00 ⚽ UEFA Champions League : Internazionale 🇮🇹 vs Shakhtar Donetsk 🇺🇦</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="178">
+<title lang="en">21:00 ⚽ UEFA Champions League : Internazionale 🇮🇹 vs Shakhtar Donetsk 🇺🇦</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="105">
+<title lang="en">21:00 ⚽ UEFA Champions League : Internazionale 🇮🇹 vs Shakhtar Donetsk 🇺🇦</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="14">
+<title lang="en">21:00 ⚽ UEFA Champions League : Internazionale 🇮🇹 vs Shakhtar Donetsk 🇺🇦</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021233000 +0000" stop="20261022013000 +0000" channel="14">
+<title lang="en">01:30 🏒 NHL : Philadelphia Flyers 🇺🇸 vs Buffalo Sabres 🇺🇸</title>
+<desc lang="en">01:30</desc>
+<category lang="en">Ice Hockey (NHL) 🏒</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="1062">
+<title lang="en">21:00 ⚽ UEFA Champions League : Internazionale 🇮🇹 vs Shakhtar Donetsk 🇺🇦</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="179">
+<title lang="en">21:00 ⚽ UEFA Champions League : Internazionale 🇮🇹 vs Shakhtar Donetsk 🇺🇦</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="1025">
+<title lang="en">21:00 ⚽ UEFA Champions League : Internazionale 🇮🇹 vs Shakhtar Donetsk 🇺🇦</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="5008">
+<title lang="en">21:00 ⚽ UEFA Champions League : Internazionale 🇮🇹 vs Shakhtar Donetsk 🇺🇦</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="5034">
+<title lang="en">21:00 ⚽ UEFA Champions League : Internazionale 🇮🇹 vs Shakhtar Donetsk 🇺🇦</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="5044">
+<title lang="en">21:00 ⚽ UEFA Champions League : Internazionale 🇮🇹 vs Shakhtar Donetsk 🇺🇦</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="4005">
+<title lang="en">21:00 ⚽ UEFA Champions League : Internazionale 🇮🇹 vs Shakhtar Donetsk 🇺🇦</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="156">
+<title lang="en">21:00 ⚽ UEFA Champions League : Real Madrid 🇪🇸 vs RB Leipzig 🇩🇪</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="1221">
+<title lang="en">21:00 ⚽ UEFA Champions League : Real Madrid 🇪🇸 vs RB Leipzig 🇩🇪</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="1221">
+<title lang="en">21:00 ⚽ UEFA Champions League : Real Madrid 🇪🇸 vs RB Leipzig 🇩🇪</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="5009">
+<title lang="en">21:00 ⚽ UEFA Champions League : Real Madrid 🇪🇸 vs RB Leipzig 🇩🇪</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="5035">
+<title lang="en">21:00 ⚽ UEFA Champions League : Real Madrid 🇪🇸 vs RB Leipzig 🇩🇪</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="5045">
+<title lang="en">21:00 ⚽ UEFA Champions League : Real Madrid 🇪🇸 vs RB Leipzig 🇩🇪</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="4004">
+<title lang="en">21:00 ⚽ UEFA Champions League : Real Madrid 🇪🇸 vs RB Leipzig 🇩🇪</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="157">
+<title lang="en">21:00 ⚽ UEFA Champions League : Sporting CP 🇵🇹 vs LASK Linz 🇦🇹</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="1225">
+<title lang="en">21:00 ⚽ UEFA Champions League : Sporting CP 🇵🇹 vs LASK Linz 🇦🇹</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="15">
+<title lang="en">21:00 ⚽ UEFA Champions League : Sporting CP 🇵🇹 vs LASK Linz 🇦🇹</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021233000 +0000" stop="20261022013000 +0000" channel="15">
+<title lang="en">01:30 🏒 NHL : Florida Panthers 🇺🇸 vs Ottawa Senators 🇨🇦</title>
+<desc lang="en">01:30</desc>
+<category lang="en">Ice Hockey (NHL) 🏒</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="106">
+<title lang="en">21:00 ⚽ UEFA Champions League : Sporting CP 🇵🇹 vs LASK Linz 🇦🇹</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="180">
+<title lang="en">21:00 ⚽ UEFA Champions League : Sporting CP 🇵🇹 vs LASK Linz 🇦🇹</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="16">
+<title lang="en">21:00 ⚽ UEFA Champions League : Sporting CP 🇵🇹 vs LASK Linz 🇦🇹</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021233000 +0000" stop="20261022013000 +0000" channel="16">
+<title lang="en">01:30 🏀 NBA : Miami Heat 🇺🇸 vs Minnesota Timberwolves 🇺🇸</title>
+<desc lang="en">01:30</desc>
+<category lang="en">NBA 🏀</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="989">
+<title lang="en">21:00 ⚽ UEFA Champions League : Sporting CP 🇵🇹 vs LASK Linz 🇦🇹</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="5010">
+<title lang="en">21:00 ⚽ UEFA Champions League : Sporting CP 🇵🇹 vs LASK Linz 🇦🇹</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="5036">
+<title lang="en">21:00 ⚽ UEFA Champions League : Sporting CP 🇵🇹 vs LASK Linz 🇦🇹</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="5046">
+<title lang="en">21:00 ⚽ UEFA Champions League : Sporting CP 🇵🇹 vs LASK Linz 🇦🇹</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="4007">
+<title lang="en">21:00 ⚽ UEFA Champions League : Sporting CP 🇵🇹 vs LASK Linz 🇦🇹</title>
+<desc lang="en">21:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261022010000 +0000" stop="20261022030000 +0000" channel="925">
+<title lang="en">03:00 ⚽ Mexico - Liga MX : Puebla 🇲🇽 vs Monterrey 🇲🇽</title>
+<desc lang="en">03:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261022010000 +0000" stop="20261022030000 +0000" channel="935">
+<title lang="en">03:00 ⚽ Mexico - Liga MX : Atlas 🇲🇽 vs América 🇲🇽</title>
+<desc lang="en">03:00</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261022031000 +0000" stop="20261022051000 +0000" channel="935">
+<title lang="en">05:10 ⚽ Mexico - Liga MX : Santos Laguna 🇲🇽 vs Pumas UNAM 🇲🇽</title>
+<desc lang="en">05:10</desc>
+<category lang="en">All Soccer Events ⚽</category>
+</programme>
+<programme start="20261021140000 +0000" stop="20261021160000 +0000" channel="963">
+<title lang="en">16:00 ⚽ UEFA Youth League : Inter U19 🇮🇹 vs Shakhtar Donetsk U19 🇺🇦</title>
+<desc lang="en">16:00</desc>
+<category lang="en">UEFA Youth League ⚽</category>
+</programme>
+<programme start="20261021140000 +0000" stop="20261021160000 +0000" channel="4106">
+<title lang="en">16:00 ⚽ UEFA Youth League : Inter U19 🇮🇹 vs Shakhtar Donetsk U19 🇺🇦</title>
+<desc lang="en">16:00</desc>
+<category lang="en">UEFA Youth League ⚽</category>
+</programme>
+<programme start="20261021120000 +0000" stop="20261021140000 +0000" channel="284">
+<title lang="en">14:00 🏏 Tri Series : Afghanistan 🇦🇫 vs Bangladesh 🇧🇩</title>
+<desc lang="en">14:00</desc>
+<category lang="en">Cricket 🏏</category>
+</programme>
+<programme start="20261022023000 +0000" stop="20261022043000 +0000" channel="1300">
+<title lang="en">04:30 🎾 Brussels-ATP, Lyon-ATP, Almaty-ATP, Osaka-WTA &amp;amp; Ningbo-WTA Early Rounds 🇧🇪🇫🇷🇰🇿🇯🇵🇨🇳</title>
+<desc lang="en">04:30</desc>
+<category lang="en">Tennis 🎾</category>
+</programme>
+<programme start="20261022023000 +0000" stop="20261022043000 +0000" channel="576">
+<title lang="en">04:30 🎾 Brussels-ATP, Lyon-ATP, Almaty-ATP, Osaka-WTA &amp;amp; Ningbo-WTA Early Rounds 🇧🇪🇫🇷🇰🇿🇯🇵🇨🇳</title>
+<desc lang="en">04:30</desc>
+<category lang="en">Tennis 🎾</category>
+</programme>
+<programme start="20261022023000 +0000" stop="20261022043000 +0000" channel="1043">
+<title lang="en">04:30 🎾 Brussels-ATP, Lyon-ATP, Almaty-ATP, Osaka-WTA &amp;amp; Ningbo-WTA Early Rounds 🇧🇪🇫🇷🇰🇿🇯🇵🇨🇳</title>
+<desc lang="en">04:30</desc>
+<category lang="en">Tennis 🎾</category>
+</programme>
+<programme start="20261022023000 +0000" stop="20261022043000 +0000" channel="992">
+<title lang="en">04:30 🎾 Brussels-ATP, Lyon-ATP, Almaty-ATP, Osaka-WTA &amp;amp; Ningbo-WTA Early Rounds 🇧🇪🇫🇷🇰🇿🇯🇵🇨🇳</title>
+<desc lang="en">04:30</desc>
+<category lang="en">Tennis 🎾</category>
+</programme>
+<programme start="20261021093000 +0000" stop="20261021113000 +0000" channel="26">
+<title lang="en">11:30 🎾 Tennis: ATP 250 Brussels 🇧🇪 &amp;amp; ATP 250 Almaty 🇰🇿 &amp;amp; WTA 500 Ningbo 🇨🇳</title>
+<desc lang="en">11:30</desc>
+<category lang="en">Tennis 🎾</category>
+</programme>
+<programme start="20261021120000 +0000" stop="20261021140000 +0000" channel="26">
+<title lang="en">14:00 🎾 Tennis: ATP 250 Lyon 🇫🇷 &amp;amp; ATP 250 Brussels 🇧🇪 &amp;amp; ATP 250 Almaty 🇰🇿 &amp;amp; WTA 500 Ningbo 🇨🇳</title>
+<desc lang="en">14:00</desc>
+<category lang="en">Tennis 🎾</category>
+</programme>
+<programme start="20261021173000 +0000" stop="20261021193000 +0000" channel="26">
+<title lang="en">19:30 🏀 Eurocup : Bosna 🇧🇦 vs Bahcesehir Koleji 🇹🇷</title>
+<desc lang="en">19:30</desc>
+<category lang="en">Eurocup Basketball 🏀</category>
+</programme>
+<programme start="20261022050000 +0000" stop="20261022070000 +0000" channel="26">
+<title lang="en">07:00 🎾 Tennis: WTA 500 Ningbo 🇨🇳 &amp;amp; WTA 250 Osaka 🇯🇵</title>
+<desc lang="en">07:00</desc>
+<category lang="en">Tennis 🎾</category>
+</programme>
+<programme start="20261022063000 +0000" stop="20261022083000 +0000" channel="1521">
+<title lang="en">08:30 🎾 ATP - Singles: 🇮🇹 Mattia Bellucci vs 🇦🇷 Tomas Martin Etcheverry</title>
+<desc lang="en">08:30</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Almaty (Kazakhstan)</category>
+</programme>
+<programme start="20261022063000 +0000" stop="20261022083000 +0000" channel="1660">
+<title lang="en">08:30 🎾 ATP - Singles: 🇮🇹 Mattia Bellucci vs 🇦🇷 Tomas Martin Etcheverry</title>
+<desc lang="en">08:30</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Almaty (Kazakhstan)</category>
+</programme>
+<programme start="20261022063000 +0000" stop="20261022083000 +0000" channel="1071">
+<title lang="en">08:30 🎾 ATP - Singles: 🇦🇺 James Duckworth vs 🇮🇹 Luciano Darderi</title>
+<desc lang="en">08:30</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Almaty (Kazakhstan)</category>
+</programme>
+<programme start="20261021080000 +0000" stop="20261021100000 +0000" channel="1507">
+<title lang="en">10:00 🎾 ATP - Singles: 🇰🇿 Zangar Nurlanuly vs 🇨🇿 Tomas Machac</title>
+<desc lang="en">10:00</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Almaty (Kazakhstan)</category>
+</programme>
+<programme start="20261021093000 +0000" stop="20261021113000 +0000" channel="1507">
+<title lang="en">11:30 🎾 ATP - Singles: 🇫🇷 Adrian Mannarino vs 🇷🇺 Andrey Rublev</title>
+<desc lang="en">11:30</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Almaty (Kazakhstan)</category>
+</programme>
+<programme start="20261021143000 +0000" stop="20261021163000 +0000" channel="1507">
+<title lang="en">16:30 🎾 ATP - Singles: 🇬🇷 Stefanos Tsitsipas vs 🇰🇿 Mikhail Kukushkin</title>
+<desc lang="en">16:30</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Almaty (Kazakhstan)</category>
+</programme>
+<programme start="20261022063000 +0000" stop="20261022083000 +0000" channel="1507">
+<title lang="en">08:30 🎾 ATP - Singles: 🇦🇺 James Duckworth vs 🇮🇹 Luciano Darderi</title>
+<desc lang="en">08:30</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Almaty (Kazakhstan)</category>
+</programme>
+<programme start="20261022063000 +0000" stop="20261022083000 +0000" channel="1661">
+<title lang="en">08:30 🎾 ATP - Singles: 🇦🇺 James Duckworth vs 🇮🇹 Luciano Darderi</title>
+<desc lang="en">08:30</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Almaty (Kazakhstan)</category>
+</programme>
+<programme start="20261021080000 +0000" stop="20261021100000 +0000" channel="1522">
+<title lang="en">10:00 🎾 ATP - Singles: 🇦🇷 Facundo Diaz Acosta vs 🇬🇪 Nikoloz Basilashvili</title>
+<desc lang="en">10:00</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Almaty (Kazakhstan)</category>
+</programme>
+<programme start="20261021080000 +0000" stop="20261021100000 +0000" channel="1666">
+<title lang="en">10:00 🎾 ATP - Singles: 🇦🇷 Facundo Diaz Acosta vs 🇬🇪 Nikoloz Basilashvili</title>
+<desc lang="en">10:00</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Almaty (Kazakhstan)</category>
+</programme>
+<programme start="20261021080000 +0000" stop="20261021100000 +0000" channel="1072">
+<title lang="en">10:00 🎾 ATP - Singles: 🇰🇿 Zangar Nurlanuly vs 🇨🇿 Tomas Machac</title>
+<desc lang="en">10:00</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Almaty (Kazakhstan)</category>
+</programme>
+<programme start="20261021080000 +0000" stop="20261021100000 +0000" channel="1665">
+<title lang="en">10:00 🎾 ATP - Singles: 🇰🇿 Zangar Nurlanuly vs 🇨🇿 Tomas Machac</title>
+<desc lang="en">10:00</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Almaty (Kazakhstan)</category>
+</programme>
+<programme start="20261021093000 +0000" stop="20261021113000 +0000" channel="1073">
+<title lang="en">11:30 🎾 ATP - Singles: 🇫🇷 Adrian Mannarino vs 🇷🇺 Andrey Rublev</title>
+<desc lang="en">11:30</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Almaty (Kazakhstan)</category>
+</programme>
+<programme start="20261021093000 +0000" stop="20261021113000 +0000" channel="1668">
+<title lang="en">11:30 🎾 ATP - Singles: 🇫🇷 Adrian Mannarino vs 🇷🇺 Andrey Rublev</title>
+<desc lang="en">11:30</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Almaty (Kazakhstan)</category>
+</programme>
+<programme start="20261021143000 +0000" stop="20261021163000 +0000" channel="1079">
+<title lang="en">16:30 🎾 ATP - Singles: 🇬🇷 Stefanos Tsitsipas vs 🇰🇿 Mikhail Kukushkin</title>
+<desc lang="en">16:30</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Almaty (Kazakhstan)</category>
+</programme>
+<programme start="20261021143000 +0000" stop="20261021163000 +0000" channel="1683">
+<title lang="en">16:30 🎾 ATP - Singles: 🇬🇷 Stefanos Tsitsipas vs 🇰🇿 Mikhail Kukushkin</title>
+<desc lang="en">16:30</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Almaty (Kazakhstan)</category>
+</programme>
+<programme start="20261021093000 +0000" stop="20261021113000 +0000" channel="1074">
+<title lang="en">11:30 🎾 ATP - Singles: 🇺🇸 Martin Damm vs 🇦🇷 Francisco Cerundolo</title>
+<desc lang="en">11:30</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Brussels (Belgium)</category>
+</programme>
+<programme start="20261021093000 +0000" stop="20261021113000 +0000" channel="1508">
+<title lang="en">11:30 🎾 ATP - Singles: 🇺🇸 Martin Damm vs 🇦🇷 Francisco Cerundolo</title>
+<desc lang="en">11:30</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Brussels (Belgium)</category>
+</programme>
+<programme start="20261021110000 +0000" stop="20261021130000 +0000" channel="1508">
+<title lang="en">13:00 🎾 ATP - Singles: 🇦🇷 Mariano Navone vs 🇳🇱 Tallon Griekspoor</title>
+<desc lang="en">13:00</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Brussels (Belgium)</category>
+</programme>
+<programme start="20261021123000 +0000" stop="20261021143000 +0000" channel="1508">
+<title lang="en">14:30 🎾 ATP - Singles: 🇫🇷 Clement Chidekh vs 🇬🇧 Jacob Fearnley</title>
+<desc lang="en">14:30</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Brussels (Belgium)</category>
+</programme>
+<programme start="20261021133000 +0000" stop="20261021153000 +0000" channel="1508">
+<title lang="en">15:30 🎾 ATP - Singles: 🇫🇷 Corentin Moutet vs 🇬🇧 Felix Balshaw</title>
+<desc lang="en">15:30</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Lyon (France)</category>
+</programme>
+<programme start="20261021160000 +0000" stop="20261021180000 +0000" channel="1508">
+<title lang="en">18:00 🎾 ATP - Singles: 🇧🇪 David Goffin vs 🇨🇭 Remy Bertola</title>
+<desc lang="en">18:00</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Brussels (Belgium)</category>
+</programme>
+<programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="1508">
+<title lang="en">19:00 🎾 ATP - Singles: 🇫🇷 Moise Kouame vs 🇮🇹 Lorenzo Musetti</title>
+<desc lang="en">19:00</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Lyon (France)</category>
+</programme>
+<programme start="20261021173000 +0000" stop="20261021193000 +0000" channel="1508">
+<title lang="en">19:30 🎾 ATP - Singles: 🇧🇪 Gauthier Onclin vs 🇩🇪 Jan-Lennard Struff</title>
+<desc lang="en">19:30</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Brussels (Belgium)</category>
+</programme>
+<programme start="20261021183000 +0000" stop="20261021203000 +0000" channel="1508">
+<title lang="en">20:30 🎾 ATP - Singles: 🇫🇷 Benjamin Bonzi vs 🇺🇸 Tommy Paul</title>
+<desc lang="en">20:30</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Lyon (France)</category>
+</programme>
+<programme start="20261021093000 +0000" stop="20261021113000 +0000" channel="1670">
+<title lang="en">11:30 🎾 ATP - Singles: 🇺🇸 Martin Damm vs 🇦🇷 Francisco Cerundolo</title>
+<desc lang="en">11:30</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Brussels (Belgium)</category>
+</programme>
+<programme start="20261021093000 +0000" stop="20261021113000 +0000" channel="1523">
+<title lang="en">11:30 🎾 ATP - Singles: 🇭🇷 Dino Prizmic vs 🇧🇦 Damir Dzumhur</title>
+<desc lang="en">11:30</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Brussels (Belgium)</category>
+</programme>
+<programme start="20261021093000 +0000" stop="20261021113000 +0000" channel="1671">
+<title lang="en">11:30 🎾 ATP - Singles: 🇭🇷 Dino Prizmic vs 🇧🇦 Damir Dzumhur</title>
+<desc lang="en">11:30</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Brussels (Belgium)</category>
+</programme>
+<programme start="20261021110000 +0000" stop="20261021130000 +0000" channel="1075">
+<title lang="en">13:00 🎾 ATP - Singles: 🇦🇷 Mariano Navone vs 🇳🇱 Tallon Griekspoor</title>
+<desc lang="en">13:00</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Brussels (Belgium)</category>
+</programme>
+<programme start="20261021110000 +0000" stop="20261021130000 +0000" channel="1674">
+<title lang="en">13:00 🎾 ATP - Singles: 🇦🇷 Mariano Navone vs 🇳🇱 Tallon Griekspoor</title>
+<desc lang="en">13:00</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Brussels (Belgium)</category>
+</programme>
+<programme start="20261021123000 +0000" stop="20261021143000 +0000" channel="1076">
+<title lang="en">14:30 🎾 ATP - Singles: 🇫🇷 Clement Chidekh vs 🇬🇧 Jacob Fearnley</title>
+<desc lang="en">14:30</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Brussels (Belgium)</category>
+</programme>
+<programme start="20261021123000 +0000" stop="20261021143000 +0000" channel="1678">
+<title lang="en">14:30 🎾 ATP - Singles: 🇫🇷 Clement Chidekh vs 🇬🇧 Jacob Fearnley</title>
+<desc lang="en">14:30</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Brussels (Belgium)</category>
+</programme>
+<programme start="20261021160000 +0000" stop="20261021180000 +0000" channel="1080">
+<title lang="en">18:00 🎾 ATP - Singles: 🇧🇪 David Goffin vs 🇨🇭 Remy Bertola</title>
+<desc lang="en">18:00</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Brussels (Belgium)</category>
+</programme>
+<programme start="20261021160000 +0000" stop="20261021180000 +0000" channel="1685">
+<title lang="en">18:00 🎾 ATP - Singles: 🇧🇪 David Goffin vs 🇨🇭 Remy Bertola</title>
+<desc lang="en">18:00</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Brussels (Belgium)</category>
+</programme>
+<programme start="20261021173000 +0000" stop="20261021193000 +0000" channel="1082">
+<title lang="en">19:30 🎾 ATP - Singles: 🇧🇪 Gauthier Onclin vs 🇩🇪 Jan-Lennard Struff</title>
+<desc lang="en">19:30</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Brussels (Belgium)</category>
+</programme>
+<programme start="20261021173000 +0000" stop="20261021193000 +0000" channel="1687">
+<title lang="en">19:30 🎾 ATP - Singles: 🇧🇪 Gauthier Onclin vs 🇩🇪 Jan-Lennard Struff</title>
+<desc lang="en">19:30</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Brussels (Belgium)</category>
+</programme>
+<programme start="20261021120000 +0000" stop="20261021140000 +0000" channel="1077">
+<title lang="en">14:00 🎾 ATP - Singles: 🇨🇭 Stan Wawrinka vs 🇪🇸 Martin Landaluce</title>
+<desc lang="en">14:00</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Lyon (France)</category>
+</programme>
+<programme start="20261021120000 +0000" stop="20261021140000 +0000" channel="1509">
+<title lang="en">14:00 🎾 ATP - Singles: 🇨🇭 Stan Wawrinka vs 🇪🇸 Martin Landaluce</title>
+<desc lang="en">14:00</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Lyon (France)</category>
+</programme>
+<programme start="20261021120000 +0000" stop="20261021140000 +0000" channel="1677">
+<title lang="en">14:00 🎾 ATP - Singles: 🇨🇭 Stan Wawrinka vs 🇪🇸 Martin Landaluce</title>
+<desc lang="en">14:00</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Lyon (France)</category>
+</programme>
+<programme start="20261021133000 +0000" stop="20261021153000 +0000" channel="1078">
+<title lang="en">15:30 🎾 ATP - Singles: 🇫🇷 Corentin Moutet vs 🇬🇧 Felix Balshaw</title>
+<desc lang="en">15:30</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Lyon (France)</category>
+</programme>
+<programme start="20261021133000 +0000" stop="20261021153000 +0000" channel="1682">
+<title lang="en">15:30 🎾 ATP - Singles: 🇫🇷 Corentin Moutet vs 🇬🇧 Felix Balshaw</title>
+<desc lang="en">15:30</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Lyon (France)</category>
+</programme>
+<programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="1081">
+<title lang="en">19:00 🎾 ATP - Singles: 🇫🇷 Moise Kouame vs 🇮🇹 Lorenzo Musetti</title>
+<desc lang="en">19:00</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Lyon (France)</category>
+</programme>
+<programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="1686">
+<title lang="en">19:00 🎾 ATP - Singles: 🇫🇷 Moise Kouame vs 🇮🇹 Lorenzo Musetti</title>
+<desc lang="en">19:00</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Lyon (France)</category>
+</programme>
+<programme start="20261021183000 +0000" stop="20261021203000 +0000" channel="1083">
+<title lang="en">20:30 🎾 ATP - Singles: 🇫🇷 Benjamin Bonzi vs 🇺🇸 Tommy Paul</title>
+<desc lang="en">20:30</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Lyon (France)</category>
+</programme>
+<programme start="20261021183000 +0000" stop="20261021203000 +0000" channel="1688">
+<title lang="en">20:30 🎾 ATP - Singles: 🇫🇷 Benjamin Bonzi vs 🇺🇸 Tommy Paul</title>
+<desc lang="en">20:30</desc>
+<category lang="en">Tennis 🎾 ATP - Singles: Lyon (France)</category>
+</programme>
+<programme start="20261022050000 +0000" stop="20261022070000 +0000" channel="1088">
+<title lang="en">07:00 🎾 WTA - Singles: 🇨🇿 Marie Bouzkova vs 🇷🇺 Anastasia Zakharova</title>
+<desc lang="en">07:00</desc>
+<category lang="en">Tennis 🎾 WTA - Singles: Ningbo (China)</category>
+</programme>
+<programme start="20261021080000 +0000" stop="20261021100000 +0000" channel="1524">
+<title lang="en">10:00 🎾 WTA - Singles: 🇷🇴 Sorana Cirstea vs 🇨🇿 Sára Bejlek</title>
+<desc lang="en">10:00</desc>
+<category lang="en">Tennis 🎾 WTA - Singles: Ningbo (China)</category>
+</programme>
+<programme start="20261021110000 +0000" stop="20261021130000 +0000" channel="1524">
+<title lang="en">13:00 🎾 WTA - Singles: 🇷🇺 Ekaterina Alexandrova vs 🇺🇦 Marta Kostyuk</title>
+<desc lang="en">13:00</desc>
+<category lang="en">Tennis 🎾 WTA - Singles: Ningbo (China)</category>
+</programme>
+<programme start="20261022050000 +0000" stop="20261022070000 +0000" channel="1524">
+<title lang="en">07:00 🎾 WTA - Singles: 🇨🇿 Marie Bouzkova vs 🇷🇺 Anastasia Zakharova</title>
+<desc lang="en">07:00</desc>
+<category lang="en">Tennis 🎾 WTA - Singles: Ningbo (China)</category>
+</programme>
+<programme start="20261022063000 +0000" stop="20261022083000 +0000" channel="1524">
+<title lang="en">08:30 🎾 WTA - Singles: 🇨🇦 Leylah Fernandez vs 🇧🇾 Aliaksandra Sasnovich</title>
+<desc lang="en">08:30</desc>
+<category lang="en">Tennis 🎾 WTA - Singles: Ningbo (China)</category>
+</programme>
+<programme start="20261021080000 +0000" stop="20261021100000 +0000" channel="1501">
+<title lang="en">10:00 🎾 WTA - Singles: 🇷🇴 Sorana Cirstea vs 🇨🇿 Sára Bejlek</title>
+<desc lang="en">10:00</desc>
+<category lang="en">Tennis 🎾 WTA - Singles: Ningbo (China)</category>
+</programme>
+<programme start="20261021110000 +0000" stop="20261021130000 +0000" channel="1501">
+<title lang="en">13:00 🎾 WTA - Singles: 🇷🇺 Ekaterina Alexandrova vs 🇺🇦 Marta Kostyuk</title>
+<desc lang="en">13:00</desc>
+<category lang="en">Tennis 🎾 WTA - Singles: Ningbo (China)</category>
+</programme>
+<programme start="20261022050000 +0000" stop="20261022070000 +0000" channel="1501">
+<title lang="en">07:00 🎾 WTA - Singles: 🇨🇿 Marie Bouzkova vs 🇷🇺 Anastasia Zakharova</title>
+<desc lang="en">07:00</desc>
+<category lang="en">Tennis 🎾 WTA - Singles: Ningbo (China)</category>
+</programme>
+<programme start="20261022063000 +0000" stop="20261022083000 +0000" channel="1501">
+<title lang="en">08:30 🎾 WTA - Singles: 🇨🇦 Leylah Fernandez vs 🇧🇾 Aliaksandra Sasnovich</title>
+<desc lang="en">08:30</desc>
+<category lang="en">Tennis 🎾 WTA - Singles: Ningbo (China)</category>
+</programme>
+<programme start="20261022050000 +0000" stop="20261022070000 +0000" channel="1656">
+<title lang="en">07:00 🎾 WTA - Singles: 🇨🇿 Marie Bouzkova vs 🇷🇺 Anastasia Zakharova</title>
+<desc lang="en">07:00</desc>
+<category lang="en">Tennis 🎾 WTA - Singles: Ningbo (China)</category>
+</programme>
+<programme start="20261022063000 +0000" stop="20261022083000 +0000" channel="1092">
+<title lang="en">08:30 🎾 WTA - Singles: 🇨🇦 Leylah Fernandez vs 🇧🇾 Aliaksandra Sasnovich</title>
+<desc lang="en">08:30</desc>
+<category lang="en">Tennis 🎾 WTA - Singles: Ningbo (China)</category>
+</programme>
+<programme start="20261022063000 +0000" stop="20261022083000 +0000" channel="1659">
+<title lang="en">08:30 🎾 WTA - Singles: 🇨🇦 Leylah Fernandez vs 🇧🇾 Aliaksandra Sasnovich</title>
+<desc lang="en">08:30</desc>
+<category lang="en">Tennis 🎾 WTA - Singles: Ningbo (China)</category>
+</programme>
+<programme start="20261021080000 +0000" stop="20261021100000 +0000" channel="1094">
+<title lang="en">10:00 🎾 WTA - Singles: 🇷🇴 Sorana Cirstea vs 🇨🇿 Sára Bejlek</title>
+<desc lang="en">10:00</desc>
+<category lang="en">Tennis 🎾 WTA - Singles: Ningbo (China)</category>
+</programme>
+<programme start="20261021080000 +0000" stop="20261021100000 +0000" channel="1664">
+<title lang="en">10:00 🎾 WTA - Singles: 🇷🇴 Sorana Cirstea vs 🇨🇿 Sára Bejlek</title>
+<desc lang="en">10:00</desc>
+<category lang="en">Tennis 🎾 WTA - Singles: Ningbo (China)</category>
+</programme>
+<programme start="20261021110000 +0000" stop="20261021130000 +0000" channel="1097">
+<title lang="en">13:00 🎾 WTA - Singles: 🇷🇺 Ekaterina Alexandrova vs 🇺🇦 Marta Kostyuk</title>
+<desc lang="en">13:00</desc>
+<category lang="en">Tennis 🎾 WTA - Singles: Ningbo (China)</category>
+</programme>
+<programme start="20261021110000 +0000" stop="20261021130000 +0000" channel="1690">
+<title lang="en">13:00 🎾 WTA - Singles: 🇷🇺 Ekaterina Alexandrova vs 🇺🇦 Marta Kostyuk</title>
+<desc lang="en">13:00</desc>
+<category lang="en">Tennis 🎾 WTA - Singles: Ningbo (China)</category>
+</programme>
+<programme start="20261022023000 +0000" stop="20261022043000 +0000" channel="1084">
+<title lang="en">04:30 🎾 WTA - Singles: 🇦🇺 Talia Gibson vs 🇦🇹 Sinja Kraus</title>
+<desc lang="en">04:30</desc>
+<category lang="en">Tennis 🎾 WTA - Singles: Osaka (Japan)</category>
+</programme>
+<programme start="20261022023000 +0000" stop="20261022043000 +0000" channel="1504">
+<title lang="en">04:30 🎾 WTA - Singles: 🇦🇺 Talia Gibson vs 🇦🇹 Sinja Kraus</title>
+<desc lang="en">04:30</desc>
+<category lang="en">Tennis 🎾 WTA - Singles: Osaka (Japan)</category>
+</programme>
+<programme start="20261022040000 +0000" stop="20261022060000 +0000" channel="1504">
+<title lang="en">06:00 🎾 WTA - Singles: 🇨🇿 Tereza Valentova vs 🇦🇹 Lilli Tagger</title>
+<desc lang="en">06:00</desc>
+<category lang="en">Tennis 🎾 WTA - Singles: Osaka (Japan)</category>
+</programme>
+<programme start="20261022053000 +0000" stop="20261022073000 +0000" channel="1504">
+<title lang="en">07:30 🎾 WTA - Singles: 🇬🇧 Katie Boulter vs 🇨🇭 Viktorija Golubic</title>
+<desc lang="en">07:30</desc>
+<category lang="en">Tennis 🎾 WTA - Singles: Osaka (Japan)</category>
+</programme>
+<programme start="20261022023000 +0000" stop="20261022043000 +0000" channel="1651">
+<title lang="en">04:30 🎾 WTA - Singles: 🇦🇺 Talia Gibson vs 🇦🇹 Sinja Kraus</title>
+<desc lang="en">04:30</desc>
+<category lang="en">Tennis 🎾 WTA - Singles: Osaka (Japan)</category>
+</programme>
+<programme start="20261022023000 +0000" stop="20261022043000 +0000" channel="1085">
+<title lang="en">04:30 🎾 WTA - Singles: 🇹🇭 Lanlana Tararudee vs 🇺🇸 Ashlyn Krueger</title>
+<desc lang="en">04:30</desc>
+<category lang="en">Tennis 🎾 WTA - Singles: Osaka (Japan)</category>
+</programme>
+<programme start="20261022023000 +0000" stop="20261022043000 +0000" channel="1505">
+<title lang="en">04:30 🎾 WTA - Singles: 🇹🇭 Lanlana Tararudee vs 🇺🇸 Ashlyn Krueger</title>
+<desc lang="en">04:30</desc>
+<category lang="en">Tennis 🎾 WTA - Singles: Osaka (Japan)</category>
+</programme>
+<programme start="20261022023000 +0000" stop="20261022043000 +0000" channel="1652">
+<title lang="en">04:30 🎾 WTA - Singles: 🇹🇭 Lanlana Tararudee vs 🇺🇸 Ashlyn Krueger</title>
+<desc lang="en">04:30</desc>
+<category lang="en">Tennis 🎾 WTA - Singles: Osaka (Japan)</category>
+</programme>
+<programme start="20261022040000 +0000" stop="20261022060000 +0000" channel="1086">
+<title lang="en">06:00 🎾 WTA - Singles: 🇨🇿 Tereza Valentova vs 🇦🇹 Lilli Tagger</title>
+<desc lang="en">06:00</desc>
+<category lang="en">Tennis 🎾 WTA - Singles: Osaka (Japan)</category>
+</programme>
+<programme start="20261022040000 +0000" stop="20261022060000 +0000" channel="1653">
+<title lang="en">06:00 🎾 WTA - Singles: 🇨🇿 Tereza Valentova vs 🇦🇹 Lilli Tagger</title>
+<desc lang="en">06:00</desc>
+<category lang="en">Tennis 🎾 WTA - Singles: Osaka (Japan)</category>
+</programme>
+<programme start="20261022053000 +0000" stop="20261022073000 +0000" channel="1090">
+<title lang="en">07:30 🎾 WTA - Singles: 🇬🇧 Katie Boulter vs 🇨🇭 Viktorija Golubic</title>
+<desc lang="en">07:30</desc>
+<category lang="en">Tennis 🎾 WTA - Singles: Osaka (Japan)</category>
+</programme>
+<programme start="20261022053000 +0000" stop="20261022073000 +0000" channel="1657">
+<title lang="en">07:30 🎾 WTA - Singles: 🇬🇧 Katie Boulter vs 🇨🇭 Viktorija Golubic</title>
+<desc lang="en">07:30</desc>
+<category lang="en">Tennis 🎾 WTA - Singles: Osaka (Japan)</category>
+</programme>
+<programme start="20261021093000 +0000" stop="20261021113000 +0000" channel="1669">
+<title lang="en">11:30 🎾 ATP - Doubles: 🇺🇸 Nathaniel Lammons / 🇺🇸 Jackson Withrow vs 🇩🇪 Jakob Schnaitter / 🇩🇪 Mark Wallner</title>
+<desc lang="en">11:30</desc>
+<category lang="en">Tennis 🎾 ATP - Doubles: Almaty (Kazakhstan)</category>
+</programme>
+<programme start="20261021110000 +0000" stop="20261021130000 +0000" channel="1691">
+<title lang="en">13:00 🎾 ATP - Doubles: 🇮🇳 N. Sriram Balaji / 🇺🇸 Evan King vs 🇮🇳 Anirudh Chandrasekar / 🇭🇰 Ronald Ho</title>
+<desc lang="en">13:00</desc>
+<category lang="en">Tennis 🎾 ATP - Doubles: Almaty (Kazakhstan)</category>
+</programme>
+<programme start="20261021210000 +0000" stop="20261021230000 +0000" channel="1680">
+<title lang="en">23:00 🎾 ATP - Doubles: 🇦🇹 Lucas Miedler / 🇦🇹 Neil Oberleitner vs 🇰🇿 Amir Omarkhanov / 🇰🇿 Beibit Zhukayev</title>
+<desc lang="en">23:00</desc>
+<category lang="en">Tennis 🎾 ATP - Doubles: Almaty (Kazakhstan)</category>
+</programme>
+<programme start="20261021110000 +0000" stop="20261021130000 +0000" channel="1675">
+<title lang="en">13:00 🎾 ATP - Doubles: 🇦🇷 Guido Andreozzi / 🇫🇷 Manuel Guinard vs 🇧🇪 Michael Geerts / 🇧🇪 Joran Vliegen</title>
+<desc lang="en">13:00</desc>
+<category lang="en">Tennis 🎾 ATP - Doubles: Brussels (Belgium)</category>
+</programme>
+<programme start="20261021123000 +0000" stop="20261021143000 +0000" channel="1679">
+<title lang="en">14:30 🎾 ATP - Doubles: 🇦🇷 Francisco Cerundolo / 🇺🇸 Alex Michelsen vs 🇧🇷 Orlando Luz / 🇧🇷 Rafael Matos</title>
+<desc lang="en">14:30</desc>
+<category lang="en">Tennis 🎾 ATP - Doubles: Brussels (Belgium)</category>
+</programme>
+<programme start="20261021100000 +0000" stop="20261021120000 +0000" channel="1672">
+<title lang="en">12:00 🎾 ATP - Doubles: 🇲🇨 Romain Arneodo / 🇫🇷 Ugo Blanchet vs 🇪🇨 Gonzalo Escobar / 🇮🇳 N. Kaliyanda Poonacha</title>
+<desc lang="en">12:00</desc>
+<category lang="en">Tennis 🎾 ATP - Doubles: Lyon (France)</category>
+</programme>
+<programme start="20261021100000 +0000" stop="20261021120000 +0000" channel="1673">
+<title lang="en">12:00 🎾 ATP - Doubles: 🇫🇷 Theo Droguet / 🇫🇷 Kyrian Jacquet vs 🇫🇷 Theo Arribage / 🇫🇷 Albano Olivetti</title>
+<desc lang="en">12:00</desc>
+<category lang="en">Tennis 🎾 ATP - Doubles: Lyon (France)</category>
+</programme>
+<programme start="20261021113000 +0000" stop="20261021133000 +0000" channel="1676">
+<title lang="en">13:30 🎾 ATP - Doubles: 🇺🇸 James Paul / 🇨🇿 Matej Vocel vs 🇲🇽 Santiago Gonzalez / 🇩🇪 Hendrik Jebens</title>
+<desc lang="en">13:30</desc>
+<category lang="en">Tennis 🎾 ATP - Doubles: Lyon (France)</category>
+</programme>
+<programme start="20261021130000 +0000" stop="20261021150000 +0000" channel="1681">
+<title lang="en">15:00 🎾 ATP - Doubles: 🇬🇧 Daniel Stevenson / 🇬🇧 Marcus Willis vs 🇨🇿 Andrew Paulson / 🇭🇷 Nino Serdarusic</title>
+<desc lang="en">15:00</desc>
+<category lang="en">Tennis 🎾 ATP - Doubles: Lyon (France)</category>
+</programme>
+<programme start="20261021143000 +0000" stop="20261021163000 +0000" channel="1684">
+<title lang="en">16:30 🎾 ATP - Doubles: 🇺🇸 F. Reynolds / 🇺🇸 J. Watt vs 🇺🇾 Ariel Behar / 🇫🇷 Joshua Paris</title>
+<desc lang="en">16:30</desc>
+<category lang="en">Tennis 🎾 ATP - Doubles: Lyon (France)</category>
+</programme>
+<programme start="20261022040000 +0000" stop="20261022060000 +0000" channel="1087">
+<title lang="en">06:00 🎾 WTA - Doubles: 🇨🇿 Jesika Maleckova / 🇨🇿 Miriam Skoch vs 🇪🇸 Kaitlin Quevedo / 🇺🇸 Claire Liu</title>
+<desc lang="en">06:00</desc>
+<category lang="en">Tennis 🎾 WTA - Doubles: Osaka (Japan)</category>
+</programme>
+<programme start="20261022040000 +0000" stop="20261022060000 +0000" channel="1654">
+<title lang="en">06:00 🎾 WTA - Doubles: 🇨🇿 Jesika Maleckova / 🇨🇿 Miriam Skoch vs 🇪🇸 Kaitlin Quevedo / 🇺🇸 Claire Liu</title>
+<desc lang="en">06:00</desc>
+<category lang="en">Tennis 🎾 WTA - Doubles: Osaka (Japan)</category>
+</programme>
+<programme start="20261022053000 +0000" stop="20261022073000 +0000" channel="1091">
+<title lang="en">07:30 🎾 WTA - Doubles: 🇦🇺 Storm Hunter / 🇮🇩 Janice Tjen vs 🇰🇷 Lee Y. / 🇨🇳 Wu Fang</title>
+<desc lang="en">07:30</desc>
+<category lang="en">Tennis 🎾 WTA - Doubles: Osaka (Japan)</category>
+</programme>
+<programme start="20261022053000 +0000" stop="20261022073000 +0000" channel="1658">
+<title lang="en">07:30 🎾 WTA - Doubles: 🇦🇺 Storm Hunter / 🇮🇩 Janice Tjen vs 🇰🇷 Lee Y. / 🇨🇳 Wu Fang</title>
+<desc lang="en">07:30</desc>
+<category lang="en">Tennis 🎾 WTA - Doubles: Osaka (Japan)</category>
+</programme>
+<programme start="20261021070000 +0000" stop="20261021090000 +0000" channel="1093">
+<title lang="en">09:00 🎾 WTA - Doubles: 🇯🇵 Makoto Kobori / 🇯🇵 Akiko Shimizu vs 🇹🇼 Hao-Ching Chan / 🇯🇵 Miyu Kato</title>
+<desc lang="en">09:00</desc>
+<category lang="en">Tennis 🎾 WTA - Doubles: Osaka (Japan)</category>
+</programme>
+<programme start="20261021070000 +0000" stop="20261021090000 +0000" channel="1662">
+<title lang="en">09:00 🎾 WTA - Doubles: 🇯🇵 Makoto Kobori / 🇯🇵 Akiko Shimizu vs 🇹🇼 Hao-Ching Chan / 🇯🇵 Miyu Kato</title>
+<desc lang="en">09:00</desc>
+<category lang="en">Tennis 🎾 WTA - Doubles: Osaka (Japan)</category>
+</programme>
+<programme start="20261022050000 +0000" stop="20261022070000 +0000" channel="1089">
+<title lang="en">07:00 🎾 WTA - Doubles: 🇪🇸 Cristina Bucsa / 🇺🇸 Nicole Melichar-Martinez vs 🇮🇹 Sara Errani / 🇮🇹 Jasmine Paolini</title>
+<desc lang="en">07:00</desc>
+<category lang="en">Tennis 🎾 WTA - Doubles: Ningbo (China)</category>
+</programme>
+<programme start="20261021080000 +0000" stop="20261021100000 +0000" channel="1502">
+<title lang="en">10:00 🎾 WTA - Doubles: 🇺🇸 Desirae Krawczyk / 🇭🇺 Fanny Stollar vs 🇰🇿 Anna Danilina / 🇨🇳 Xinyu Jiang</title>
+<desc lang="en">10:00</desc>
+<category lang="en">Tennis 🎾 WTA - Doubles: Ningbo (China)</category>
+</programme>
+<programme start="20261021093000 +0000" stop="20261021113000 +0000" channel="1502">
+<title lang="en">11:30 🎾 WTA - Doubles: 🇨🇳 Qianhui Tang / 🇨🇳 Yifan Xu vs 🇳🇿 Erin Routliffe / 🇮🇩 Aldila Sutjiadi</title>
+<desc lang="en">11:30</desc>
+<category lang="en">Tennis 🎾 WTA - Doubles: Ningbo (China)</category>
+</programme>
+<programme start="20261022050000 +0000" stop="20261022070000 +0000" channel="1502">
+<title lang="en">07:00 🎾 WTA - Doubles: 🇪🇸 Cristina Bucsa / 🇺🇸 Nicole Melichar-Martinez vs 🇮🇹 Sara Errani / 🇮🇹 Jasmine Paolini</title>
+<desc lang="en">07:00</desc>
+<category lang="en">Tennis 🎾 WTA - Doubles: Ningbo (China)</category>
+</programme>
+<programme start="20261022063000 +0000" stop="20261022083000 +0000" channel="1502">
+<title lang="en">08:30 🎾 WTA - Doubles: 🇳🇴 Ulrikke Eikeri / 🇺🇸 Quinn Gleason vs 🇹🇼 Su-Wei Hsieh / 🇱🇻 Jelena Ostapenko</title>
+<desc lang="en">08:30</desc>
+<category lang="en">Tennis 🎾 WTA - Doubles: Ningbo (China)</category>
+</programme>
+<programme start="20261022050000 +0000" stop="20261022070000 +0000" channel="1655">
+<title lang="en">07:00 🎾 WTA - Doubles: 🇪🇸 Cristina Bucsa / 🇺🇸 Nicole Melichar-Martinez vs 🇮🇹 Sara Errani / 🇮🇹 Jasmine Paolini</title>
+<desc lang="en">07:00</desc>
+<category lang="en">Tennis 🎾 WTA - Doubles: Ningbo (China)</category>
+</programme>
+<programme start="20261021080000 +0000" stop="20261021100000 +0000" channel="1095">
+<title lang="en">10:00 🎾 WTA - Doubles: 🇺🇸 Desirae Krawczyk / 🇭🇺 Fanny Stollar vs 🇰🇿 Anna Danilina / 🇨🇳 Xinyu Jiang</title>
+<desc lang="en">10:00</desc>
+<category lang="en">Tennis 🎾 WTA - Doubles: Ningbo (China)</category>
+</programme>
+<programme start="20261021080000 +0000" stop="20261021100000 +0000" channel="1663">
+<title lang="en">10:00 🎾 WTA - Doubles: 🇺🇸 Desirae Krawczyk / 🇭🇺 Fanny Stollar vs 🇰🇿 Anna Danilina / 🇨🇳 Xinyu Jiang</title>
+<desc lang="en">10:00</desc>
+<category lang="en">Tennis 🎾 WTA - Doubles: Ningbo (China)</category>
+</programme>
+<programme start="20261021093000 +0000" stop="20261021113000 +0000" channel="1096">
+<title lang="en">11:30 🎾 WTA - Doubles: 🇨🇳 Qianhui Tang / 🇨🇳 Yifan Xu vs 🇳🇿 Erin Routliffe / 🇮🇩 Aldila Sutjiadi</title>
+<desc lang="en">11:30</desc>
+<category lang="en">Tennis 🎾 WTA - Doubles: Ningbo (China)</category>
+</programme>
+<programme start="20261021093000 +0000" stop="20261021113000 +0000" channel="1667">
+<title lang="en">11:30 🎾 WTA - Doubles: 🇨🇳 Qianhui Tang / 🇨🇳 Yifan Xu vs 🇳🇿 Erin Routliffe / 🇮🇩 Aldila Sutjiadi</title>
+<desc lang="en">11:30</desc>
+<category lang="en">Tennis 🎾 WTA - Doubles: Ningbo (China)</category>
+</programme>
+<programme start="20261022020000 +0000" stop="20261022040000 +0000" channel="995">
+<title lang="en">04:00 ⛳ LPGA Tour BMW Ladies Championship 🇰🇷</title>
+<desc lang="en">04:00</desc>
+<category lang="en">Golf ⛳</category>
+</programme>
+<programme start="20261022020000 +0000" stop="20261022040000 +0000" channel="937">
+<title lang="en">04:00 ⛳ LPGA Tour BMW Ladies Championship 🇰🇷</title>
+<desc lang="en">04:00</desc>
+<category lang="en">Golf ⛳</category>
+</programme>
+<programme start="20261021090000 +0000" stop="20261021110000 +0000" channel="1298">
+<title lang="en">11:00 🎱 Northern Ireland Open | Round 2 🇬🇧</title>
+<desc lang="en">11:00</desc>
+<category lang="en">Snooker 🎱</category>
+</programme>
+<programme start="20261021120000 +0000" stop="20261021140000 +0000" channel="1298">
+<title lang="en">14:00 🎱 Northern Ireland Open | Round 2 🇬🇧</title>
+<desc lang="en">14:00</desc>
+<category lang="en">Snooker 🎱</category>
+</programme>
+<programme start="20261021180000 +0000" stop="20261021200000 +0000" channel="1298">
+<title lang="en">20:00 🎱 Northern Ireland Open | Round 2 🇬🇧</title>
+<desc lang="en">20:00</desc>
+<category lang="en">Snooker 🎱</category>
+</programme>
+<programme start="20261021090000 +0000" stop="20261021110000 +0000" channel="1299">
+<title lang="en">11:00 🎱 Northern Ireland Open | Round 2 🇬🇧</title>
+<desc lang="en">11:00</desc>
+<category lang="en">Snooker 🎱</category>
+</programme>
+<programme start="20261021120000 +0000" stop="20261021140000 +0000" channel="1299">
+<title lang="en">14:00 🎱 Northern Ireland Open | Round 2 🇬🇧</title>
+<desc lang="en">14:00</desc>
+<category lang="en">Snooker 🎱</category>
+</programme>
+<programme start="20261021180000 +0000" stop="20261021200000 +0000" channel="1299">
+<title lang="en">20:00 🎱 Northern Ireland Open | Round 2 🇬🇧</title>
+<desc lang="en">20:00</desc>
+<category lang="en">Snooker 🎱</category>
+</programme>
+<programme start="20261021090000 +0000" stop="20261021110000 +0000" channel="231">
+<title lang="en">11:00 🎱 Northern Ireland Open | Round 2 🇬🇧</title>
+<desc lang="en">11:00</desc>
+<category lang="en">Snooker 🎱</category>
+</programme>
+<programme start="20261021120000 +0000" stop="20261021140000 +0000" channel="231">
+<title lang="en">14:00 🎱 Northern Ireland Open | Round 2 🇬🇧</title>
+<desc lang="en">14:00</desc>
+<category lang="en">Snooker 🎱</category>
+</programme>
+<programme start="20261021180000 +0000" stop="20261021200000 +0000" channel="231">
+<title lang="en">20:00 🎱 Northern Ireland Open | Round 2 🇬🇧</title>
+<desc lang="en">20:00</desc>
+<category lang="en">Snooker 🎱</category>
+</programme>
+<programme start="20261021090000 +0000" stop="20261021110000 +0000" channel="201">
+<title lang="en">11:00 🎱 Snooker Northern Ireland Open : Cheung Ka Wai 🇭🇰 vs Stuart Bingham 🇬🇧</title>
+<desc lang="en">11:00</desc>
+<category lang="en">Snooker Northern Ireland Open 🎱</category>
+</programme>
+<programme start="20261021180000 +0000" stop="20261021200000 +0000" channel="201">
+<title lang="en">20:00 🎱 Snooker Northern Ireland Open : Michael Holt 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Jordan Brown 🇬🇧</title>
+<desc lang="en">20:00</desc>
+<category lang="en">Snooker Northern Ireland Open 🎱</category>
+</programme>
+<programme start="20261021090000 +0000" stop="20261021110000 +0000" channel="202">
+<title lang="en">11:00 🎱 Snooker Northern Ireland Open : Pang Junxu 🇨🇳 vs Liam Davies 🏴󠁧󠁢󠁷󠁬󠁳󠁿</title>
+<desc lang="en">11:00</desc>
+<category lang="en">Snooker Northern Ireland Open 🎱</category>
+</programme>
+<programme start="20261021180000 +0000" stop="20261021200000 +0000" channel="202">
+<title lang="en">20:00 🎱 Snooker Northern Ireland Open : Noppon Saengkham 🇹🇭 vs Scott Donaldson 🏴󠁧󠁢󠁳󠁣󠁴󠁿</title>
+<desc lang="en">20:00</desc>
+<category lang="en">Snooker Northern Ireland Open 🎱</category>
+</programme>
+<programme start="20261021120000 +0000" stop="20261021140000 +0000" channel="203">
+<title lang="en">14:00 🎱 Snooker Northern Ireland Open : John Higgins 🏴󠁧󠁢󠁳󠁣󠁴󠁿 vs Jak Jones 🏴󠁧󠁢󠁷󠁬󠁳󠁿</title>
+<desc lang="en">14:00</desc>
+<category lang="en">Snooker Northern Ireland Open 🎱</category>
+</programme>
+<programme start="20261021180000 +0000" stop="20261021200000 +0000" channel="203">
+<title lang="en">20:00 🎱 Snooker Northern Ireland Open : Gao Yang 🇨🇳 vs David Gilbert 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">20:00</desc>
+<category lang="en">Snooker Northern Ireland Open 🎱</category>
+</programme>
+<programme start="20261021120000 +0000" stop="20261021140000 +0000" channel="204">
+<title lang="en">14:00 🎱 Snooker Northern Ireland Open : Daniel Wells 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Ryan Day 🏴󠁧󠁢󠁷󠁬󠁳󠁿</title>
+<desc lang="en">14:00</desc>
+<category lang="en">Snooker Northern Ireland Open 🎱</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="204">
+<title lang="en">21:00 🎱 Snooker Northern Ireland Open : Luca Brecel 🇧🇪 vs Martin O'Donnell 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+<desc lang="en">21:00</desc>
+<category lang="en">Snooker Northern Ireland Open 🎱</category>
+</programme>
+<programme start="20261021130000 +0000" stop="20261021150000 +0000" channel="205">
+<title lang="en">15:00 🎱 Snooker Northern Ireland Open : Sam Craigie 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Xu Si 🇨🇳</title>
+<desc lang="en">15:00</desc>
+<category lang="en">Snooker Northern Ireland Open 🎱</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="205">
+<title lang="en">21:00 🎱 Snooker Northern Ireland Open : Elliot Slessor 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Jamie Jones 🏴󠁧󠁢󠁷󠁬󠁳󠁿</title>
+<desc lang="en">21:00</desc>
+<category lang="en">Snooker Northern Ireland Open 🎱</category>
+</programme>
+<programme start="20261021130000 +0000" stop="20261021150000 +0000" channel="206">
+<title lang="en">15:00 🎱 Snooker Northern Ireland Open : Zhang Anda 🇨🇳 vs Mark Williams 🏴󠁧󠁢󠁷󠁬󠁳󠁿</title>
+<desc lang="en">15:00</desc>
+<category lang="en">Snooker Northern Ireland Open 🎱</category>
+</programme>
+<programme start="20261021160000 +0000" stop="20261021180000 +0000" channel="944">
+<title lang="en">18:00 🏀 ABA League 2 : Borac 🇷🇸 vs Mornar Bar 🇲🇪</title>
+<desc lang="en">18:00</desc>
+<category lang="en">Basketball 🏀</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="944">
+<title lang="en">21:00 🏀 Champions League : Joventut Badalona 🇪🇸 vs Bonn 🇩🇪</title>
+<desc lang="en">21:00</desc>
+<category lang="en">Champions League Basketball 🏀</category>
+</programme>
+<programme start="20261021160000 +0000" stop="20261021180000 +0000" channel="945">
+<title lang="en">18:00 🏀 ABA League 2 : Sutjeska 🇲🇪 vs KK Triglav Kranj 🇸🇮</title>
+<desc lang="en">18:00</desc>
+<category lang="en">Basketball 🏀</category>
+</programme>
+<programme start="20261021160000 +0000" stop="20261021180000 +0000" channel="158">
+<title lang="en">18:00 🏀 Slovenian League : Illyria 🇸🇮 vs Šentjur 🇸🇮</title>
+<desc lang="en">18:00</desc>
+<category lang="en">Basketball 🏀</category>
+</programme>
+<programme start="20261021180000 +0000" stop="20261021200000 +0000" channel="158">
+<title lang="en">20:00 🏀 Eurocup : Basket Napoli 🇮🇹 vs Tofas 🇹🇷</title>
+<desc lang="en">20:00</desc>
+<category lang="en">Eurocup Basketball 🏀</category>
+</programme>
+<programme start="20261021161500 +0000" stop="20261021181500 +0000" channel="182">
+<title lang="en">18:15 🏀 Russia Super League : Dynamo Ufa 🇷🇺 vs Desna Bryansk 🇷🇺</title>
+<desc lang="en">18:15</desc>
+<category lang="en">Basketball 🏀</category>
+</programme>
+<programme start="20261021173000 +0000" stop="20261021193000 +0000" channel="183">
+<title lang="en">19:30 🏀 Euroleague Women : Athinaikos W 🇬🇷 vs Zaragoza W 🇪🇸</title>
+<desc lang="en">19:30</desc>
+<category lang="en">Basketball 🏀</category>
+</programme>
+<programme start="20261021173000 +0000" stop="20261021193000 +0000" channel="184">
+<title lang="en">19:30 🏀 Euroleague Women : Valencia Basket W 🇪🇸 vs Flammes Carolo W 🇫🇷</title>
+<desc lang="en">19:30</desc>
+<category lang="en">Basketball 🏀</category>
+</programme>
+<programme start="20261021163000 +0000" stop="20261021183000 +0000" channel="29">
+<title lang="en">18:30 🏀 Eurocup : Cedevita Olimpija 🇸🇮 vs Le Mans 🇫🇷</title>
+<desc lang="en">18:30</desc>
+<category lang="en">Eurocup Basketball 🏀</category>
+</programme>
+<programme start="20261021180000 +0000" stop="20261021200000 +0000" channel="29">
+<title lang="en">20:00 🏀 Champions League : Reggio Emilia 🇮🇹 vs Juventus 🇱🇹 (INCLUSION)</title>
+<desc lang="en">20:00</desc>
+<category lang="en">Champions League Basketball 🏀</category>
+</programme>
+<programme start="20261021190000 +0000" stop="20261021210000 +0000" channel="17">
+<title lang="en">21:00 🏀 Champions League : Joventut Badalona 🇪🇸 vs Bonn 🇩🇪</title>
+<desc lang="en">21:00</desc>
+<category lang="en">Champions League Basketball 🏀</category>
+</programme>
+<programme start="20261022020000 +0000" stop="20261022040000 +0000" channel="17">
+<title lang="en">04:00 🏀 NBA : Los Angeles Lakers 🇺🇸 vs Golden State Warriors 🇺🇸</title>
+<desc lang="en">04:00</desc>
+<category lang="en">NBA 🏀</category>
+</programme>
+<programme start="20261021163000 +0000" stop="20261021183000 +0000" channel="185">
+<title lang="en">18:30 🏀 Eurocup : Cedevita Olimpija 🇸🇮 vs Le Mans 🇫🇷</title>
+<desc lang="en">18:30</desc>
+<category lang="en">Eurocup Basketball 🏀</category>
+</programme>
+<programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="1206">
+<title lang="en">19:00 🏀 Eurocup : PAOK 🇬🇷 vs Ulm 🇩🇪</title>
+<desc lang="en">19:00</desc>
+<category lang="en">Eurocup Basketball 🏀</category>
+</programme>
+<programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="30">
+<title lang="en">19:00 🏀 Eurocup : PAOK 🇬🇷 vs Ulm 🇩🇪</title>
+<desc lang="en">19:00</desc>
+<category lang="en">Eurocup Basketball 🏀</category>
+</programme>
+<programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="20">
+<title lang="en">19:00 🏀 Eurocup : Chemnitz 🇩🇪 vs Slask Wroclaw 🇵🇱</title>
+<desc lang="en">19:00</desc>
+<category lang="en">Eurocup Basketball 🏀</category>
+</programme>
+<programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="996">
+<title lang="en">19:00 🏀 Eurocup : Chemnitz 🇩🇪 vs Slask Wroclaw 🇵🇱</title>
+<desc lang="en">19:00</desc>
+<category lang="en">Eurocup Basketball 🏀</category>
+</programme>
+<programme start="20261021171500 +0000" stop="20261021191500 +0000" channel="21">
+<title lang="en">19:15 🏀 Eurocup : Frankfurt 🇩🇪 vs Tenerife 🇪🇸</title>
+<desc lang="en">19:15</desc>
+<category lang="en">Eurocup Basketball 🏀</category>
+</programme>
+<programme start="20261021171500 +0000" stop="20261021191500 +0000" channel="186">
+<title lang="en">19:15 🏀 Eurocup : Frankfurt 🇩🇪 vs Tenerife 🇪🇸</title>
+<desc lang="en">19:15</desc>
+<category lang="en">Eurocup Basketball 🏀</category>
+</programme>
+<programme start="20261021173000 +0000" stop="20261021193000 +0000" channel="941">
+<title lang="en">19:30 🏀 Eurocup : Hapoel M. Jerusalem 🇮🇱 vs Rigas Zelli 🇱🇻</title>
+<desc lang="en">19:30</desc>
+<category lang="en">Eurocup Basketball 🏀</category>
+</programme>
+<programme start="20261021173000 +0000" stop="20261021193000 +0000" channel="28">
+<title lang="en">19:30 🏀 Eurocup : Hapoel M. Jerusalem 🇮🇱 vs Rigas Zelli 🇱🇻</title>
+<desc lang="en">19:30</desc>
+<category lang="en">Eurocup Basketball 🏀</category>
+</programme>
+<programme start="20261021173000 +0000" stop="20261021193000 +0000" channel="942">
+<title lang="en">19:30 🏀 Eurocup : JL Bourg 🇫🇷 vs Trento 🇮🇹</title>
+<desc lang="en">19:30</desc>
+<category lang="en">Eurocup Basketball 🏀</category>
+</programme>
+<programme start="20261021173000 +0000" stop="20261021193000 +0000" channel="940">
+<title lang="en">19:30 🏀 Eurocup : Bosna 🇧🇦 vs Bahcesehir Koleji 🇹🇷</title>
+<desc lang="en">19:30</desc>
+<category lang="en">Eurocup Basketball 🏀</category>
+</programme>
+<programme start="20261021173000 +0000" stop="20261021193000 +0000" channel="187">
+<title lang="en">19:30 🏀 Eurocup : Bosna 🇧🇦 vs Bahcesehir Koleji 🇹🇷</title>
+<desc lang="en">19:30</desc>
+<category lang="en">Eurocup Basketball 🏀</category>
+</programme>
+<programme start="20261021160000 +0000" stop="20261021180000 +0000" channel="22">
+<title lang="en">18:00 🏀 Euroleague : Hapoel Tel-Aviv 🇮🇱 vs Virtus Bologna 🇮🇹</title>
+<desc lang="en">18:00</desc>
+<category lang="en">Euroleague Basketball 🏀</category>
+</programme>
+<programme start="20261021160000 +0000" stop="20261021180000 +0000" channel="188">
+<title lang="en">18:00 🏀 Euroleague : Hapoel Tel-Aviv 🇮🇱 vs Virtus Bologna 🇮🇹</title>
+<desc lang="en">18:00</desc>
+<category lang="en">Euroleague Basketball 🏀</category>
+</programme>
+<programme start="20261021160000 +0000" stop="20261021180000 +0000" channel="1027">
+<title lang="en">18:00 🏀 Euroleague : Hapoel Tel-Aviv 🇮🇱 vs Virtus Bologna 🇮🇹</title>
+<desc lang="en">18:00</desc>
+<category lang="en">Euroleague Basketball 🏀</category>
+</programme>
+<programme start="20261021160000 +0000" stop="20261021180000 +0000" channel="3012">
+<title lang="en">18:00 🏀 Euroleague : Hapoel Tel-Aviv 🇮🇱 vs Virtus Bologna 🇮🇹</title>
+<desc lang="en">18:00</desc>
+<category lang="en">Euroleague Basketball 🏀</category>
+</programme>
+<programme start="20261021233000 +0000" stop="20261022013000 +0000" channel="888">
+<title lang="en">01:30 🏀 NBA : Miami Heat 🇺🇸 vs Minnesota Timberwolves 🇺🇸</title>
+<desc lang="en">01:30</desc>
+<category lang="en">NBA 🏀</category>
+</programme>
+<programme start="20261022020000 +0000" stop="20261022040000 +0000" channel="888">
+<title lang="en">04:00 🏀 NBA : Los Angeles Lakers 🇺🇸 vs Golden State Warriors 🇺🇸</title>
+<desc lang="en">04:00</desc>
+<category lang="en">NBA 🏀</category>
+</programme>
+<programme start="20261022003000 +0000" stop="20261022023000 +0000" channel="921">
+<title lang="en">02:30 🏀 NBA : Houston Rockets 🇺🇸 vs Dallas Mavericks 🇺🇸</title>
+<desc lang="en">02:30</desc>
+<category lang="en">NBA 🏀</category>
+</programme>
+<programme start="20261021173000 +0000" stop="20261021193000 +0000" channel="189">
+<title lang="en">19:30 🤸 Artistic Gymnastics: Rotterdam 2026 World Championships - Women's Team Final 🇳🇱</title>
+<desc lang="en">19:30</desc>
+<category lang="en">Gymnastics 🤸</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="1041">
+<title lang="en">18:45 🤾 Champions League : Veszprem 🇭🇺 vs Fuchse Berlin 🇩🇪</title>
+<desc lang="en">18:45</desc>
+<category lang="en">Handball 🤾</category>
+</programme>
+<programme start="20261021184500 +0000" stop="20261021204500 +0000" channel="1041">
+<title lang="en">20:45 🤾 Champions League : Nantes 🇫🇷 vs Vardar 🇲🇰</title>
+<desc lang="en">20:45</desc>
+<category lang="en">Handball 🤾</category>
+</programme>
+<programme start="20261021164500 +0000" stop="20261021184500 +0000" channel="190">
+<title lang="en">18:45 🤾 Champions League : Veszprem 🇭🇺 vs Fuchse Berlin 🇩🇪</title>
+<desc lang="en">18:45</desc>
+<category lang="en">Handball 🤾</category>
+</programme>
+<programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="1212">
+<title lang="en">19:00 🏒 HockeyAllsvenskan : Mora 🇸🇪 vs Almtuna 🇸🇪</title>
+<desc lang="en">19:00</desc>
+<category lang="en">Ice Hockey 🏒</category>
+</programme>
+<programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="3062">
+<title lang="en">19:00 🏒 HockeyAllsvenskan : Mora 🇸🇪 vs Almtuna 🇸🇪</title>
+<desc lang="en">19:00</desc>
+<category lang="en">Ice Hockey 🏒</category>
+</programme>
+<programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="1213">
+<title lang="en">19:00 🏒 HockeyAllsvenskan : Modo 🇸🇪 vs Oskarshamn 🇸🇪</title>
+<desc lang="en">19:00</desc>
+<category lang="en">Ice Hockey 🏒</category>
+</programme>
+<programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="3061">
+<title lang="en">19:00 🏒 HockeyAllsvenskan : Modo 🇸🇪 vs Oskarshamn 🇸🇪</title>
+<desc lang="en">19:00</desc>
+<category lang="en">Ice Hockey 🏒</category>
+</programme>
+<programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="1214">
+<title lang="en">19:00 🏒 HockeyAllsvenskan : Leksands 🇸🇪 vs Kalmar 🇸🇪</title>
+<desc lang="en">19:00</desc>
+<category lang="en">Ice Hockey 🏒</category>
+</programme>
+<programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="3065">
+<title lang="en">19:00 🏒 HockeyAllsvenskan : Leksands 🇸🇪 vs Kalmar 🇸🇪</title>
+<desc lang="en">19:00</desc>
+<category lang="en">Ice Hockey 🏒</category>
+</programme>
+<programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="1208">
+<title lang="en">19:00 🏒 HockeyAllsvenskan : Vimmerby 🇸🇪 vs Vasteras 🇸🇪</title>
+<desc lang="en">19:00</desc>
+<category lang="en">Ice Hockey 🏒</category>
+</programme>
+<programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="3064">
+<title lang="en">19:00 🏒 HockeyAllsvenskan : Vimmerby 🇸🇪 vs Vasteras 🇸🇪</title>
+<desc lang="en">19:00</desc>
+<category lang="en">Ice Hockey 🏒</category>
+</programme>
+<programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="1209">
+<title lang="en">19:00 🏒 HockeyAllsvenskan : Sodertalje 🇸🇪 vs BIK Karlskoga 🇸🇪</title>
+<desc lang="en">19:00</desc>
+<category lang="en">Ice Hockey 🏒</category>
+</programme>
+<programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="3066">
+<title lang="en">19:00 🏒 HockeyAllsvenskan : Sodertalje 🇸🇪 vs BIK Karlskoga 🇸🇪</title>
+<desc lang="en">19:00</desc>
+<category lang="en">Ice Hockey 🏒</category>
+</programme>
+<programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="1210">
+<title lang="en">19:00 🏒 HockeyAllsvenskan : Ostersund 🇸🇪 vs AIK 🇸🇪</title>
+<desc lang="en">19:00</desc>
+<category lang="en">Ice Hockey 🏒</category>
+</programme>
+<programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="3063">
+<title lang="en">19:00 🏒 HockeyAllsvenskan : Ostersund 🇸🇪 vs AIK 🇸🇪</title>
+<desc lang="en">19:00</desc>
+<category lang="en">Ice Hockey 🏒</category>
+</programme>
+<programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="3067">
+<title lang="en">19:00 🏒 HockeyAllsvenskan : Nybro Vikings IF vs Visby/Roma HK</title>
+<desc lang="en">19:00</desc>
+<category lang="en">Ice Hockey 🏒</category>
+</programme>
+<programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="1211">
+<title lang="en">19:00 🏒 HockeyAllsvenskan : Nybro Vikings IF vs Visby/Roma HK</title>
+<desc lang="en">19:00</desc>
+<category lang="en">Ice Hockey 🏒</category>
+</programme>
+<programme start="20261021171500 +0000" stop="20261021191500 +0000" channel="192">
+<title lang="en">19:15 🏒 ICE Hockey League : Red Bull Salzburg 🇦🇹 vs HK Olimpija 🇸🇮</title>
+<desc lang="en">19:15</desc>
+<category lang="en">Ice Hockey 🏒</category>
+</programme>
+<programme start="20261021140000 +0000" stop="20261021160000 +0000" channel="191">
+<title lang="en">16:00 🏒 Russia KHL : Metallurg Magnitogorsk 🇷🇺 vs Salavat Yulaev Ufa 🇷🇺</title>
+<desc lang="en">16:00</desc>
+<category lang="en">KHL Ice Hockey 🏒</category>
+</programme>
+<programme start="20261021163000 +0000" stop="20261021183000 +0000" channel="191">
+<title lang="en">18:30 🏒 Russia KHL : Spartak Moscow 🇷🇺 vs CSKA Moscow 🇷🇺</title>
+<desc lang="en">18:30</desc>
+<category lang="en">KHL Ice Hockey 🏒</category>
+</programme>
+<programme start="20261021153000 +0000" stop="20261021173000 +0000" channel="994">
+<title lang="en">17:30 🏐 PlusLiga : Politechnika Lublin 🇵🇱 vs Trefl Gdansk 🇵🇱</title>
+<desc lang="en">17:30</desc>
+<category lang="en">Volleyball 🏐</category>
+</programme>
+<programme start="20261021183000 +0000" stop="20261021203000 +0000" channel="994">
+<title lang="en">20:30 🏐 PlusLiga : Aluron Warta 🇵🇱 vs ZAKSA 🇵🇱</title>
+<desc lang="en">20:30</desc>
+<category lang="en">Volleyball 🏐</category>
+</programme>
+<programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="943">
+<title lang="en">19:00 🏐 Champions League Women : Herceg Novi W 🇲🇪 vs Maritsa Plovdiv W 🇧🇬</title>
+<desc lang="en">19:00</desc>
+<category lang="en">Volleyball 🏐</category>
+</programme>
+</tv>
