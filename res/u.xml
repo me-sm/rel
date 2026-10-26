@@ -252,51 +252,6 @@
 <programme start="20261028044500 +0000" stop="20261028050000 +0000" channel="BBCNewsEurope.uk"><title>Asia Specific</title></programme>
 <programme start="20261028050000 +0000" stop="20261028053000 +0000" channel="BBCNewsEurope.uk"><title>BBC News</title></programme>
 <programme start="20261028053000 +0000" stop="20261028060000 +0000" channel="BBCNewsEurope.uk"><title>Business Today</title></programme>
-<programme channel="SoReal.uk" start="20261026145615 +0000" stop="20261026155159 +0000">
-    <title>Ramsay's Kitchen Nightmares</title>
-    <sub-title>Revisited - S1 E03</sub-title>
-    <desc>Has Ramsay helped these brewery whiz-kids transform their failing Inn into a profitable business?</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQU352137A_2302726424_0_20261020T220824745Z_124_imageprocessorclient-tvplus-linear-b5879c6c6-pjh7n.jpeg"/>
-    <rating>
-      <value>3</value>
-    </rating>
-  </programme>
-<programme channel="SoReal.uk" start="20261026155159 +0000" stop="20261026164739 +0000">
-    <title>Ramsay's Kitchen Nightmares</title>
-    <sub-title>Revisited - S1 E04</sub-title>
-    <desc>With no customers and a fridge full of fancy ingredients, Bonapartes was losing money fast.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQU352137A_2302736024_0_20261020T220824745Z_63_imageprocessorclient-tvplus-linear-b5879c6c6-pjh7n.jpeg"/>
-    <rating>
-      <value>3</value>
-    </rating>
-  </programme>
-<programme channel="SoReal.uk" start="20261026164739 +0000" stop="20261026174251 +0000">
-    <title>Ramsay's Kitchen Nightmares</title>
-    <sub-title>S2 E01</sub-title>
-    <desc>The venue for this first programme is La Lanterna in Hertfordshire.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQU352137A_1504451490_1_20260101T225112227Z_1_imageprocessorclient-tvplus-linear-85d7d49859-jzjjm.jpeg"/>
-    <rating>
-      <value>3</value>
-    </rating>
-  </programme>
-<programme channel="SoReal.uk" start="20261026174251 +0000" stop="20261026183748 +0000">
-    <title>Ramsay's Kitchen Nightmares</title>
-    <sub-title>S2 E02</sub-title>
-    <desc>D-Place in Chelmsford is run by Israel and his partner, Tara.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQU352137A_1504435497_0_20260101T225114980Z_87_imageprocessorclient-tvplus-linear-85d7d49859-flfwd.jpeg"/>
-    <rating>
-      <value>3</value>
-    </rating>
-  </programme>
-<programme channel="SoReal.uk" start="20261026183748 +0000" stop="20261026193325 +0000">
-    <title>Ramsay's Kitchen Nightmares</title>
-    <sub-title>S2 E03</sub-title>
-    <desc>Momma Cherris Soul Food Shack, has never made a profit and is facing financial disaster.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQU352137A_1504460093_0_20260101T225114980Z_97_imageprocessorclient-tvplus-linear-85d7d49859-flfwd.jpeg"/>
-    <rating>
-      <value>3</value>
-    </rating>
-  </programme>
 <programme channel="SoReal.uk" start="20261026193325 +0000" stop="20261026202803 +0000">
     <title>Ramsay's Kitchen Nightmares</title>
     <sub-title>S2 E04</sub-title>
@@ -315,22 +270,58 @@
       <value>3</value>
     </rating>
   </programme>
-<programme channel="MovieSphere.uk" start="20261026151050 +0000" stop="20261026172002 +0000">
-    <title>The Divergent Series</title>
-    <sub-title>Insurgent</sub-title>
-    <desc>Tris must confront her inner demons and fight against an alliance which threatens to tear her society apart.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_2154720230_0_20260831T211524374Z_20_imageprocessorclient-tvplus-linear-b5879c6c6-626r6.jpeg"/>
+<programme channel="SoReal.uk" start="20261026212251 +0000" stop="20261026221754 +0000">
+    <title>Ramsay's Kitchen Nightmares</title>
+    <sub-title>S2 E06</sub-title>
+    <desc>Oscars is an Irish family run restaurant in the heart of beautiful countryside.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQU352137A_1509100903_0_20260102T224243694Z_87_imageprocessorclient-tvplus-linear-85d7d49859-mtv42.jpeg"/>
     <rating>
-      <value>13</value>
+      <value>3</value>
     </rating>
   </programme>
-<programme channel="MovieSphere.uk" start="20261026172002 +0000" stop="20261026193057 +0000">
-    <title>The Divergent Series</title>
-    <sub-title>Allegiant</sub-title>
-    <desc>ALLEGIANT takes Tris and Four into a new world, far more dangerous than ever before.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_2154720276_0_20260831T211524375Z_116_imageprocessorclient-tvplus-linear-b5879c6c6-626r6.jpeg"/>
+<programme channel="SoReal.uk" start="20261026221754 +0000" stop="20261026231311 +0000">
+    <title>Ramsay's Kitchen Nightmares</title>
+    <sub-title>S2 E07</sub-title>
+    <desc>In this episode Gordon Ramsay helps The Sandgate hotel and restaurant.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQU352137A_1559548576_0_20260118T221755841Z_75_imageprocessorclient-tvplus-linear-85d7d49859-pkn4t.jpeg"/>
     <rating>
-      <value>13</value>
+      <value>3</value>
+    </rating>
+  </programme>
+<programme channel="SoReal.uk" start="20261026231311 +0000" stop="20261027000724 +0000">
+    <title>Ramsay's Kitchen Nightmares</title>
+    <sub-title>S2 E08</sub-title>
+    <desc>Gordon visits La Gondola. It has naff 70's cuisine, net curtains and no customers.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQU352137A_1559549300_0_20260118T221755841Z_3_imageprocessorclient-tvplus-linear-85d7d49859-pkn4t.jpeg"/>
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+<programme channel="SoReal.uk" start="20261027000724 +0000" stop="20261027010205 +0000">
+    <title>Ramsay's Kitchen Nightmares</title>
+    <sub-title>Revisited - S2 E01</sub-title>
+    <desc>Charita is fully-booked round the clock and takes on the 110-seater Momma Cherris Big House.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQU352137A_2305817233_0_20261021T221440389Z_109_imageprocessorclient-tvplus-linear-b5879c6c6-dkdgw.jpeg"/>
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+<programme channel="SoReal.uk" start="20261027010205 +0000" stop="20261027015607 +0000">
+    <title>Ramsay's Kitchen Nightmares</title>
+    <sub-title>Revisited - S2 E02</sub-title>
+    <desc>Today the restaurants return to form has led to plans for expansion.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQU352137A_2305804619_0_20261021T221438377Z_26_imageprocessorclient-tvplus-linear-b5879c6c6-dkdgw.jpeg"/>
+    <rating>
+      <value>3</value>
+    </rating>
+  </programme>
+<programme channel="SoReal.uk" start="20261027015607 +0000" stop="20261027025109 +0000">
+    <title>Ramsay's Kitchen Nightmares</title>
+    <sub-title>S3 E01</sub-title>
+    <desc>For the first time ever on Kitchen Nightmares, Gordon takes on a nightmare restaurant abroad.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQU352137A_1513867956_0_20260104T002628309Z_74_imageprocessorclient-tvplus-linear-85d7d49859-mrmsk.jpeg"/>
+    <rating>
+      <value>3</value>
     </rating>
   </programme>
 <programme channel="MovieSphere.uk" start="20261026193057 +0000" stop="20261026220946 +0000">
@@ -341,28 +332,22 @@
       <value>13</value>
     </rating>
   </programme>
-<programme channel="MyTimeMovieNetwork.uk" start="20261026135505 +0000" stop="20261026154014 +0000">
-    <title>Lethal Beauty</title>
-    <desc>A masseuse pays the price for being a good Samaritan when the young woman she helps turns out to be a killer.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_2096374520_0_20260811T164933787Z_132_imageprocessorclient-tvplus-linear-648598f6b5-tl6tt.jpeg"/>
+<programme channel="MovieSphere.uk" start="20261026220946 +0000" stop="20261027001858 +0000">
+    <title>The Divergent Series</title>
+    <sub-title>Insurgent</sub-title>
+    <desc>Tris must confront her inner demons and fight against an alliance which threatens to tear her society apart.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_2154720230_0_20260831T211524374Z_20_imageprocessorclient-tvplus-linear-b5879c6c6-626r6.jpeg"/>
     <rating>
-      <value>14</value>
+      <value>13</value>
     </rating>
   </programme>
-<programme channel="MyTimeMovieNetwork.uk" start="20261026154014 +0000" stop="20261026172504 +0000">
-    <title>Sweetheart Con</title>
-    <desc>Heartbroken over her parents' breakup and recovering from a car accident, Jane becomes increasingly suspicious of her mother's charming new boyfriend.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485489627_0_20231024T173452760Z_18.jpeg"/>
+<programme channel="MovieSphere.uk" start="20261027001858 +0000" stop="20261027022954 +0000">
+    <title>The Divergent Series</title>
+    <sub-title>Allegiant</sub-title>
+    <desc>ALLEGIANT takes Tris and Four into a new world, far more dangerous than ever before.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_2154720276_0_20260831T211524375Z_116_imageprocessorclient-tvplus-linear-b5879c6c6-626r6.jpeg"/>
     <rating>
-      <value>14</value>
-    </rating>
-  </programme>
-<programme channel="MyTimeMovieNetwork.uk" start="20261026172504 +0000" stop="20261026191005 +0000">
-    <title>The Bad Son</title>
-    <desc>An elusive serial killer is killing innocent women in Seattle. The police and FBI are on the killer's trail but were never prepared to face a bizarre twist in the case.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485487364_1_20231024T173452948Z_166.jpeg"/>
-    <rating>
-      <value>14</value>
+      <value>13</value>
     </rating>
   </programme>
 <programme channel="MyTimeMovieNetwork.uk" start="20261026191005 +0000" stop="20261026205506 +0000">
@@ -379,6 +364,38 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485487040_0_20231024T173456492Z_18.jpeg"/>
     <rating>
       <value>17</value>
+    </rating>
+  </programme>
+<programme channel="MyTimeMovieNetwork.uk" start="20261026224013 +0000" stop="20261027002605 +0000">
+    <title>Killer in Suburbia</title>
+    <desc>Gina and her daughter move to a new town, but when she is abducted, Gina must save her and trust no one.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_2096337097_0_20260811T164933788Z_81_imageprocessorclient-tvplus-linear-648598f6b5-tl6tt.jpeg"/>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+<programme channel="MyTimeMovieNetwork.uk" start="20261027002605 +0000" stop="20261027005522 +0000">
+    <title>At Home With Tori</title>
+    <desc>Tori throws her five year old son an epic spiderman birthday party!</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_491481659_4_20240506T044218918Z_139.jpeg"/>
+    <rating>
+      <value>13</value>
+    </rating>
+  </programme>
+<programme channel="MyTimeMovieNetwork.uk" start="20261027005522 +0000" stop="20261027012507 +0000">
+    <title>At Home With Tori</title>
+    <desc>Tori teams up with Josh Flagg to create a backyard summer camp-out with the Troop Beverly Hills theme.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_491481345_8_20240506T044219035Z_1.jpeg"/>
+    <rating>
+      <value>13</value>
+    </rating>
+  </programme>
+<programme channel="MyTimeMovieNetwork.uk" start="20261027012507 +0000" stop="20261027032025 +0000">
+    <title>One Last Dance</title>
+    <desc>In the wake of tragedy, a renowned NY dance company is on the brink of collapse. After leaving the dance world for good, Travis, Chrissa and Max have one last chance to re-connect with the passion and prove that miracles really can happen.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485487869_1_20231024T173455798Z_156.jpeg"/>
+    <rating>
+      <value>13</value>
     </rating>
   </programme>
 <programme start="20261025233500 +0000" stop="20261026003500 +0000" channel="5Action.uk"><title>Warship: Life in the Royal Navy</title><desc>JJ Chalmers joins marine recruits under fire training in the Devon woods, Julia Bradbury gets to steer the HMS Prince of Wales, and Rob Bell is on one of the UK&apos;s nuclear subs. (Ep2/3)[S]</desc></programme>
