@@ -1,29 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20261102">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261103">
 <channel id="TVKlan.al"><display-name>Klan.al</display-name></channel>
-<programme start="20261101233000 +0000" stop="20261102001500 +0000" channel="TVKlan.al"><title>Gjeniu</title><desc>Gjeniu</desc></programme>
-<programme start="20261102001500 +0000" stop="20261102030000 +0000" channel="TVKlan.al"><title>Mëkate dhe trëndafila</title><desc>Mëkate dhe trëndafila</desc></programme>
-<programme start="20261102030000 +0000" stop="20261102050000 +0000" channel="TVKlan.al"><title>Mëkate dhe trëndafila</title><desc>Mëkate dhe trëndafila</desc></programme>
-<programme start="20261102050000 +0000" stop="20261102060000 +0000" channel="TVKlan.al"><title>20261102060000 +0000</title><desc>20261102060000 +0000</desc></programme>
-<programme start="20261102060000 +0000" stop="20261102080000 +0000" channel="TVKlan.al"><title>Aldo Morning Show</title><desc>Aldo Morning Show</desc></programme>
-<programme start="20261102080000 +0000" stop="20261102100000 +0000" channel="TVKlan.al"><title>Shije Shtepie</title><desc>Shije Shtepie</desc></programme>
-<programme start="20261102100000 +0000" stop="20261102110000 +0000" channel="TVKlan.al"><title>Shtëpiake të dëshpëruara</title><desc>Shtëpiake të dëshpëruara</desc></programme>
-<programme start="20261102110000 +0000" stop="20261102113000 +0000" channel="TVKlan.al"><title>Lajme</title><desc>Lajme</desc></programme>
-<programme start="20261102113000 +0000" stop="20261102122000 +0000" channel="TVKlan.al"><title>Nehir</title><desc>Nehir</desc></programme>
-<programme start="20261102122000 +0000" stop="20261102133000 +0000" channel="TVKlan.al"><title>Të braktisurit</title><desc>Të braktisurit</desc></programme>
-<programme start="20261102133000 +0000" stop="20261102143000 +0000" channel="TVKlan.al"><title>BAHAR</title><desc>BAHAR</desc></programme>
-<programme start="20261102143000 +0000" stop="20261102150500 +0000" channel="TVKlan.al"><title>Lajme</title><desc>Lajme</desc></programme>
-<programme start="20261102150500 +0000" stop="20261102160000 +0000" channel="TVKlan.al"><title>Mëkate dhe trëndafila</title><desc>Mëkate dhe trëndafila</desc></programme>
-<programme start="20261102160000 +0000" stop="20261102172000 +0000" channel="TVKlan.al"><title>Rudina</title><desc>Rudina</desc></programme>
-<programme start="20261102172000 +0000" stop="20261102183000 +0000" channel="TVKlan.al"><title>Mashtruesit</title><desc>Mashtruesit</desc></programme>
-<programme start="20261102183000 +0000" stop="20261102190500 +0000" channel="TVKlan.al"><title>Lajme</title><desc>Lajme</desc></programme>
-<programme start="20261102190500 +0000" stop="20261102200000 +0000" channel="TVKlan.al"><title>20261102200000 +0000</title><desc>20261102200000 +0000</desc></programme>
-<programme start="20261102200000 +0000" stop="20261102210000 +0000" channel="TVKlan.al"><title>Gjeniu</title><desc>Gjeniu</desc></programme>
-<programme start="20261102210000 +0000" stop="20261102223000 +0000" channel="TVKlan.al"><title>Opinion</title><desc>Opinion</desc></programme>
-<programme start="20261102223000 +0000" stop="20261102225500 +0000" channel="TVKlan.al"><title>Lajme</title><desc>Lajme</desc></programme>
-<programme start="20261102225500 +0000" stop="20261102234500 +0000" channel="TVKlan.al"><title>Karteli</title><desc>18+</desc></programme>
 <programme start="20261102234500 +0000" stop="20261103003000 +0000" channel="TVKlan.al"><title>20261103003000 +0000</title><desc>20261103003000 +0000</desc></programme>
 <programme start="20261103003000 +0000" stop="20261103011500 +0000" channel="TVKlan.al"><title>Gjeniu</title><desc>Gjeniu</desc></programme>
-<programme start="20261103011500 +0000" stop="20261103020000 +0000" channel="TVKlan.al"><title>Rënia e mbretit</title><desc>Rënia e mbretit</desc></programme>
+<programme start="20261103011500 +0000" stop="20261103020000 +0000" channel="TVKlan.al"><title>Mashtruesit</title><desc>Mashtruesit</desc></programme>
 <programme start="20261103020000 +0000" stop="20261103040000 +0000" channel="TVKlan.al"><title>Opinion</title><desc>Opinion</desc></programme>
 <programme start="20261103040000 +0000" stop="20261103050000 +0000" channel="TVKlan.al"><title>Rudina</title><desc>Rudina</desc></programme>
 <programme start="20261103050000 +0000" stop="20261103060000 +0000" channel="TVKlan.al"><title>20261103060000 +0000</title><desc>20261103060000 +0000</desc></programme>
@@ -48,4 +27,27 @@
 <programme start="20261104003000 +0000" stop="20261104011500 +0000" channel="TVKlan.al"><title>Gjeniu</title><desc>Gjeniu</desc></programme>
 <programme start="20261104011500 +0000" stop="20261104020000 +0000" channel="TVKlan.al"><title>Rënia e mbretit</title><desc>Rënia e mbretit</desc></programme>
 <programme start="20261104020000 +0000" stop="20261104040000 +0000" channel="TVKlan.al"><title>Opinion</title><desc>Opinion</desc></programme>
+<programme start="20261104040000 +0000" stop="20261104050000 +0000" channel="TVKlan.al"><title>Rudina</title><desc>Rudina</desc></programme>
+<programme start="20261104050000 +0000" stop="20261104060000 +0000" channel="TVKlan.al"><title>20261104060000 +0000</title><desc>20261104060000 +0000</desc></programme>
+<programme start="20261104060000 +0000" stop="20261104080000 +0000" channel="TVKlan.al"><title>Aldo Morning Show</title><desc>Aldo Morning Show</desc></programme>
+<programme start="20261104080000 +0000" stop="20261104100000 +0000" channel="TVKlan.al"><title>Shije Shtepie</title><desc>Shije Shtepie</desc></programme>
+<programme start="20261104100000 +0000" stop="20261104110000 +0000" channel="TVKlan.al"><title>Shtëpiake të dëshpëruara</title><desc>Shtëpiake të dëshpëruara</desc></programme>
+<programme start="20261104110000 +0000" stop="20261104113000 +0000" channel="TVKlan.al"><title>Lajme</title><desc>Lajme</desc></programme>
+<programme start="20261104113000 +0000" stop="20261104122000 +0000" channel="TVKlan.al"><title>Nehir</title><desc>Nehir</desc></programme>
+<programme start="20261104122000 +0000" stop="20261104133000 +0000" channel="TVKlan.al"><title>Të braktisurit</title><desc>Të braktisurit</desc></programme>
+<programme start="20261104133000 +0000" stop="20261104143000 +0000" channel="TVKlan.al"><title>BAHAR</title><desc>BAHAR</desc></programme>
+<programme start="20261104143000 +0000" stop="20261104150500 +0000" channel="TVKlan.al"><title>Lajme</title><desc>Lajme</desc></programme>
+<programme start="20261104150500 +0000" stop="20261104160000 +0000" channel="TVKlan.al"><title>Mëkate dhe trëndafila</title><desc>Mëkate dhe trëndafila</desc></programme>
+<programme start="20261104160000 +0000" stop="20261104172000 +0000" channel="TVKlan.al"><title>Rudina</title><desc>Rudina</desc></programme>
+<programme start="20261104172000 +0000" stop="20261104183000 +0000" channel="TVKlan.al"><title>Mashtruesit</title><desc>Mashtruesit</desc></programme>
+<programme start="20261104183000 +0000" stop="20261104190500 +0000" channel="TVKlan.al"><title>Lajme</title><desc>Lajme</desc></programme>
+<programme start="20261104190500 +0000" stop="20261104200000 +0000" channel="TVKlan.al"><title>20261104200000 +0000</title><desc>20261104200000 +0000</desc></programme>
+<programme start="20261104200000 +0000" stop="20261104210000 +0000" channel="TVKlan.al"><title>Gjeniu</title><desc>Gjeniu</desc></programme>
+<programme start="20261104210000 +0000" stop="20261104223000 +0000" channel="TVKlan.al"><title>Opinion</title><desc>Opinion</desc></programme>
+<programme start="20261104223000 +0000" stop="20261104225500 +0000" channel="TVKlan.al"><title>Lajme</title><desc>Lajme</desc></programme>
+<programme start="20261104225500 +0000" stop="20261104234500 +0000" channel="TVKlan.al"><title>Karteli</title><desc>18+</desc></programme>
+<programme start="20261104234500 +0000" stop="20261105003000 +0000" channel="TVKlan.al"><title>20261105003000 +0000</title><desc>20261105003000 +0000</desc></programme>
+<programme start="20261105003000 +0000" stop="20261105011500 +0000" channel="TVKlan.al"><title>Gjeniu</title><desc>Gjeniu</desc></programme>
+<programme start="20261105011500 +0000" stop="20261105020000 +0000" channel="TVKlan.al"><title>Mashtruesit</title><desc>Mashtruesit</desc></programme>
+<programme start="20261105020000 +0000" stop="20261105040000 +0000" channel="TVKlan.al"><title>Opinion</title><desc>Opinion</desc></programme>
 </tv>
