@@ -1,27 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20261106">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261107">
 <channel id="TVKlan.al"><display-name>Klan.al</display-name></channel>
-<programme start="20261105233000 +0000" stop="20261106001500 +0000" channel="TVKlan.al"><title>20261106001500 +0000</title><desc>20261106001500 +0000</desc></programme>
-<programme start="20261106001500 +0000" stop="20261106010000 +0000" channel="TVKlan.al"><title>Mashtruesit</title><desc>Mashtruesit</desc></programme>
-<programme start="20261106010000 +0000" stop="20261106014500 +0000" channel="TVKlan.al"><title>Mëkate dhe trëndafila</title><desc>Mëkate dhe trëndafila</desc></programme>
-<programme start="20261106014500 +0000" stop="20261106040000 +0000" channel="TVKlan.al"><title>Opinion</title><desc>Opinion</desc></programme>
-<programme start="20261106040000 +0000" stop="20261106050000 +0000" channel="TVKlan.al"><title>Rudina</title><desc>Rudina</desc></programme>
-<programme start="20261106050000 +0000" stop="20261106060000 +0000" channel="TVKlan.al"><title>20261106060000 +0000</title><desc>20261106060000 +0000</desc></programme>
-<programme start="20261106060000 +0000" stop="20261106080000 +0000" channel="TVKlan.al"><title>Aldo Morning Show</title><desc>Aldo Morning Show</desc></programme>
-<programme start="20261106080000 +0000" stop="20261106100000 +0000" channel="TVKlan.al"><title>Shije Shtepie</title><desc>Shije Shtepie</desc></programme>
-<programme start="20261106100000 +0000" stop="20261106110000 +0000" channel="TVKlan.al"><title>Shtëpiake të dëshpëruara</title><desc>Shtëpiake të dëshpëruara</desc></programme>
-<programme start="20261106110000 +0000" stop="20261106113000 +0000" channel="TVKlan.al"><title>Lajme</title><desc>Lajme</desc></programme>
-<programme start="20261106113000 +0000" stop="20261106122000 +0000" channel="TVKlan.al"><title>NEHIR</title><desc>NEHIR</desc></programme>
-<programme start="20261106122000 +0000" stop="20261106133000 +0000" channel="TVKlan.al"><title>Të braktisurit</title><desc>Të braktisurit</desc></programme>
-<programme start="20261106133000 +0000" stop="20261106143000 +0000" channel="TVKlan.al"><title>Tradhtia</title><desc>Tradhtia</desc></programme>
-<programme start="20261106143000 +0000" stop="20261106150500 +0000" channel="TVKlan.al"><title>Lajme</title><desc>Lajme</desc></programme>
-<programme start="20261106150500 +0000" stop="20261106160000 +0000" channel="TVKlan.al"><title>Mëkate dhe trëndafila</title><desc>Mëkate dhe trëndafila</desc></programme>
-<programme start="20261106160000 +0000" stop="20261106172000 +0000" channel="TVKlan.al"><title>Rudina</title><desc>Rudina</desc></programme>
-<programme start="20261106172000 +0000" stop="20261106183000 +0000" channel="TVKlan.al"><title>Mashtruesit</title><desc>Mashtruesit</desc></programme>
-<programme start="20261106183000 +0000" stop="20261106190500 +0000" channel="TVKlan.al"><title>Lajme</title><desc>Lajme</desc></programme>
-<programme start="20261106190500 +0000" stop="20261106200000 +0000" channel="TVKlan.al"><title>20261106200000 +0000</title><desc>20261106200000 +0000</desc></programme>
-<programme start="20261106200000 +0000" stop="20261106220000 +0000" channel="TVKlan.al"><title>X-FACTOR Albania</title><desc>X-FACTOR Albania</desc></programme>
-<programme start="20261106220000 +0000" stop="20261106223000 +0000" channel="TVKlan.al"><title>Lajme</title><desc>Lajme</desc></programme>
-<programme start="20261106223000 +0000" stop="20261106233000 +0000" channel="TVKlan.al"><title>Karteli</title><desc>18+</desc></programme>
 <programme start="20261106233000 +0000" stop="20261107001500 +0000" channel="TVKlan.al"><title>20261107001500 +0000</title><desc>20261107001500 +0000</desc></programme>
 <programme start="20261107001500 +0000" stop="20261107010000 +0000" channel="TVKlan.al"><title>Mashtruesit</title><desc>Mashtruesit</desc></programme>
 <programme start="20261107010000 +0000" stop="20261107014500 +0000" channel="TVKlan.al"><title>Mëkate dhe trëndafila</title><desc>Mëkate dhe trëndafila</desc></programme>
@@ -48,4 +26,20 @@
 <programme start="20261107233000 +0000" stop="20261108014500 +0000" channel="TVKlan.al"><title>Sprova e familjes</title><desc>Sprova e familjes</desc></programme>
 <programme start="20261108014500 +0000" stop="20261108023000 +0000" channel="TVKlan.al"><title>Mashtruesit</title><desc>Mashtruesit</desc></programme>
 <programme start="20261108023000 +0000" stop="20261108031500 +0000" channel="TVKlan.al"><title>Të braktisurit</title><desc>Të braktisurit</desc></programme>
+<programme start="20261108031500 +0000" stop="20261108040000 +0000" channel="TVKlan.al"><title>Tradhtia</title><desc>Tradhtia</desc></programme>
+<programme start="20261108040000 +0000" stop="20261108063500 +0000" channel="TVKlan.al"><title>Të braktisurit</title><desc>Të braktisurit</desc></programme>
+<programme start="20261108063500 +0000" stop="20261108083500 +0000" channel="TVKlan.al"><title>Të braktisurit</title><desc>Të braktisurit</desc></programme>
+<programme start="20261108083500 +0000" stop="20261108110000 +0000" channel="TVKlan.al"><title>X-FACTOR Albania</title><desc>X-FACTOR Albania</desc></programme>
+<programme start="20261108110000 +0000" stop="20261108112000 +0000" channel="TVKlan.al"><title>Lajme</title><desc>Lajme</desc></programme>
+<programme start="20261108112000 +0000" stop="20261108122000 +0000" channel="TVKlan.al"><title>Histori shqiptare</title><desc>Histori shqiptare</desc></programme>
+<programme start="20261108122000 +0000" stop="20261108143000 +0000" channel="TVKlan.al"><title>E diela shqiptare</title><desc>E diela shqiptare</desc></programme>
+<programme start="20261108143000 +0000" stop="20261108150000 +0000" channel="TVKlan.al"><title>Lajme</title><desc>Lajme</desc></programme>
+<programme start="20261108150000 +0000" stop="20261108183000 +0000" channel="TVKlan.al"><title>E diela shqiptare</title><desc>E diela shqiptare</desc></programme>
+<programme start="20261108183000 +0000" stop="20261108190500 +0000" channel="TVKlan.al"><title>Lajme</title><desc>Lajme</desc></programme>
+<programme start="20261108190500 +0000" stop="20261108200000 +0000" channel="TVKlan.al"><title>Sprova e familjes</title><desc>Sprova e familjes</desc></programme>
+<programme start="20261108200000 +0000" stop="20261108220000 +0000" channel="TVKlan.al"><title>Këngët e shekullit</title><desc>Këngët e shekullit</desc></programme>
+<programme start="20261108220000 +0000" stop="20261108223000 +0000" channel="TVKlan.al"><title>Lajme</title><desc>Lajme</desc></programme>
+<programme start="20261108223000 +0000" stop="20261108233000 +0000" channel="TVKlan.al"><title>Histori shqiptare</title><desc>Histori shqiptare</desc></programme>
+<programme start="20261108233000 +0000" stop="20261109001500 +0000" channel="TVKlan.al"><title>Sprova e familjes</title><desc>Sprova e familjes</desc></programme>
+<programme start="20261109001500 +0000" stop="20261109030000 +0000" channel="TVKlan.al"><title>Mëkate dhe trëndafila</title><desc>Mëkate dhe trëndafila</desc></programme>
 </tv>
